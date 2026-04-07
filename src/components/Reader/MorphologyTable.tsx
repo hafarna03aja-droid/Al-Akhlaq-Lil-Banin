@@ -27,7 +27,7 @@ const MorphologyTable: React.FC<MorphologyTableProps> = ({ data }) => {
           <p className="text-xs text-emerald-400 font-medium m-0">Kamus Lengkap & Perubahan Kata</p>
         </div>
         <div className="text-right">
-          <div className="text-2xl font-amiri text-amber-500 leading-tight mb-1">{data.root}</div>
+          <div className="text-3xl font-amiri text-amber-500 leading-tight mb-1">{data.root}</div>
           <div className="text-xs text-amber-500 uppercase font-bold tracking-widest">Akar Kata</div>
         </div>
       </div>
@@ -47,7 +47,7 @@ const MorphologyTable: React.FC<MorphologyTableProps> = ({ data }) => {
                 <span className="text-xs text-zinc-500 uppercase font-bold tracking-tight">
                   {formLabels[key] || key}
                 </span>
-                <span className="text-xl font-amiri text-emerald-50 leading-tight">
+                <span className="text-2xl font-amiri text-emerald-50 leading-tight">
                   {value.ar}
                 </span>
               </div>
@@ -62,7 +62,7 @@ const MorphologyTable: React.FC<MorphologyTableProps> = ({ data }) => {
       {data.pattern && (
         <div className="mt-4 p-3 bg-white-10 border border-amber-500 rounded-lg text-center">
           <span className="text-xs text-amber-500 uppercase font-bold block mb-1">Wazan (Pattern)</span>
-          <span className="text-lg font-amiri text-amber-400">{data.pattern}</span>
+          <span className="text-2xl font-amiri text-amber-400">{data.pattern}</span>
         </div>
       )}
     </div>
