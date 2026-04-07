@@ -188,7 +188,7 @@ h1, h2, h3, h4 {
 .h-6 { height: 1.5rem; }
 .max-w-md { max-width: 28rem; }
 .max-w-lg { max-width: 32rem; }
-.max-h-60vh { max-h: 60vh; }
+.max-height-60vh { max-height: 60vh; }
 
 /* Text */
 .text-center { text-align: center; }
@@ -209,8 +209,11 @@ h1, h2, h3, h4 {
 .uppercase { text-transform: uppercase; }
 .tracking-tight { letter-spacing: -0.025em; }
 .tracking-widest { letter-spacing: 0.1em; }
+.font-amiri { font-family: var(--font-arabic); }
+.font-inter { font-family: var(--font-latin); }
 .leading-tight { line-height: 1.25; }
 .leading-relaxed { line-height: 1.625; }
+.leading-extra { line-height: 2; }
 
 /* Colors & Components */
 .text-white { color: white; }

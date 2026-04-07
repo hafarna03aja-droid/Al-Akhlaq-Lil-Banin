@@ -107,7 +107,7 @@ const InteractiveReader: React.FC<ReaderProps> = ({ chapter }) => {
                 <p className="text-xl font-medium text-emerald-200 italic m-0">{selectedWord.meaning}</p>
               </div>
 
-              <div className="p-8 space-y-6 max-h-60vh overflow-y-auto custom-scrollbar">
+              <div className="p-8 space-y-6 max-height-60vh overflow-y-auto custom-scrollbar">
                  <div className="grid grid-cols-2 gap-4">
                     <div>
                         <span className="text-xs uppercase font-bold text-amber-500 tracking-widest block mb-2">Jenis Kata</span>
