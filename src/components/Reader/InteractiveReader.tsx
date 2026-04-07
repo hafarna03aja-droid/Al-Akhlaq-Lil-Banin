@@ -3,30 +3,9 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Book, ChevronRight, ChevronLeft, Type, Languages, HelpCircle } from 'lucide-react';
 
-interface Word {
-  word: string;
-  meaning: string;
-  type: string;
-  irab: string;
-  morphology?: {
-    root: string;
-    pattern: string;
-    forms: Record<string, { ar: string; id: string }>;
-  };
-}
+import { Word, Chapter } from '@/types';
 
 import MorphologyTable from './MorphologyTable';
-
-interface Chapter {
-  id: number;
-  titleTrans: string;
-  titleAr: string;
-  refPage: number;
-  paragraphs: {
-    arabic: Word[];
-    translation: string;
-  }[];
-}
 
 interface ReaderProps {
   chapter: Chapter;

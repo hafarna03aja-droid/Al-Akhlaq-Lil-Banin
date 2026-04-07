@@ -3,13 +3,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-interface MorphologyData {
-  root: string;
-  pattern: string;
-  forms: {
-    [key: string]: { ar: string; id: string } | undefined;
-  };
-}
+import { MorphologyData } from "@/types";
 
 interface MorphologyTableProps {
   data: MorphologyData;

@@ -1,13 +1,14 @@
 "use client";
 import React from 'react';
 import { BookOpen, User, Home, Info, Heart, ShieldQuestion } from 'lucide-react';
+import { Chapter } from '@/types';
 
 interface SidebarProps {
   activeChapter: number;
   onSelectChapter: (id: number) => void;
   onAboutClick: () => void;
   onCopyrightClick: () => void;
-  chapters: any[];
+  chapters: Chapter[];
 }
 
 const Sidebar: React.FC<SidebarProps> = ({ activeChapter, onSelectChapter, onAboutClick, onCopyrightClick, chapters }) => {

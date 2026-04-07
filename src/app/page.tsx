@@ -6,13 +6,15 @@ import AboutApp from '@/components/Modals/AboutApp';
 import chaptersData from '@/data/chapters.json';
 import { Menu, X } from 'lucide-react';
 import { AnimatePresence } from 'framer-motion';
+import { Chapter } from '@/types';
 
 export default function Home() {
   const [activeChapterIndex, setActiveChapterIndex] = useState(0);
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [isAboutOpen, setIsAboutOpen] = useState(false);
 
-  const activeChapter = chaptersData[activeChapterIndex];
+  const chapters = chaptersData as unknown as Chapter[];
+  const activeChapter = chapters[activeChapterIndex];
 
   return (
     <main className="min-h-screen flex bg-bg-ivory selection-gold">
@@ -41,7 +43,7 @@ export default function Home() {
             setIsAboutOpen(true);
             setIsSidebarOpen(false);
           }}
-          chapters={chaptersData}
+          chapters={chapters}
         />
       </div>
 
@@ -68,12 +70,12 @@ export default function Home() {
                 Tentang Kitab
               </button>
               <div className="text-[10px] text-text-muted mt-1">
-                {activeChapterIndex + 1} dari {chaptersData.length}
+                {activeChapterIndex + 1} dari {chapters.length}
               </div>
             </div>
 
             <button 
-              disabled={activeChapterIndex === chaptersData.length - 1}
+              disabled={activeChapterIndex === chapters.length - 1}
               onClick={() => setActiveChapterIndex(activeChapterIndex + 1)}
               className={`px-6 py-2 rounded-xl bg-bg-ivory text-primary-emerald font-bold border-bg-sand cursor-pointer transition-all shadow-sm ${activeChapterIndex === chaptersData.length - 1 ? 'disabled-opacity' : 'hover-emerald-gradient'}`}
             >
