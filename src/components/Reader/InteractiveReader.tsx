@@ -22,15 +22,17 @@ const InteractiveReader: React.FC<ReaderProps> = ({ chapter }) => {
   return (
     <div className="reader-container fade-in">
       {/* Chapter Header */}
-      <div className="flex items-center justify-between mb-10 border-b pb-6 border-bg-sand">
-        <div>
-          <span className="text-secondary-gold font-bold text-xs uppercase tracking-widest bg-sand-light px-3 py-1 rounded-full mb-2 inline-block">
-            Halaman {chapter.refPage}
+      <div className="responsive-header fade-in">
+        <div className="flex-1">
+          <span className="text-secondary-gold font-bold text-[10px] uppercase tracking-widest bg-sand-light px-3 py-1 rounded-full mb-3 inline-block">
+            HALAMAN {chapter.refPage}
           </span>
-          <h1 className="text-3xl font-bold text-primary-emerald-dark">{chapter.titleTrans}</h1>
+          <h1 className="text-2xl md:text-3xl font-bold text-primary-emerald-dark leading-tight m-0">
+            {chapter.titleTrans}
+          </h1>
         </div>
-        <div className="text-right">
-          <p className="arabic-text text-4xl mb-0 leading-tight">{chapter.titleAr}</p>
+        <div className="text-left md:text-right">
+          <p className="arabic-text text-3xl md:text-5xl mb-0 leading-extra">{chapter.titleAr}</p>
         </div>
       </div>
 

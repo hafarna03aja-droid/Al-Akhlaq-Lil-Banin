@@ -7,40 +7,98 @@
     "paragraphs": [
       {
         "arabic": [
-          { "word": "الحمد", "meaning": "Segala puji", "type": "isim", "irab": "Mubtada' - Marfu' bi al-dhammah" },
-          { "word": "لله", "meaning": "bagi Allah", "type": "huruf", "irab": "Jar wa Majrur" },
-          { "word": "رب", "meaning": "Tuhan", "type": "isim", "irab": "Na'at - Majrur" },
-          { "word": "العالمين", "meaning": "semesta alam", "type": "isim", "irab": "Mudhaf Ilayh - Majrur bi al-ya'" }
+          { "word": "بِسْمِ", "meaning": "Dengan nama", "type": "huruf", "irab": "Jar" },
+          { "word": "اللَّهِ", "meaning": "Allah", "type": "isim", "irab": "Majrur" },
+          { "word": "الرَّحْمَنِ", "meaning": "Maha Pengasih", "type": "isim", "irab": "Na'at" },
+          { "word": "الرَّحِيمِ", "meaning": "Maha Penyayang", "type": "isim", "irab": "Na'at" }
         ],
-        "translation": "Segala puji bagi Allah, Tuhan semesta alam."
+        "translation": "Dengan Nama Allah Yang Maha Pengasih lagi Maha Penyayang."
+      },
+      {
+        "arabic": [
+          { "word": "الحمد", "meaning": "Segala puji", "type": "isim", "irab": "Mubtada'" },
+          { "word": "لله", "meaning": "bagi Allah", "type": "huruf", "irab": "Jar wa Majrur" },
+          { "word": "والصلاة", "meaning": "dan shalawat", "type": "huruf & isim", "irab": "Athaf" },
+          { "word": "والسلام", "meaning": "dan salam", "type": "huruf & isim", "irab": "Athaf" },
+          { "word": "على", "meaning": "atas", "type": "huruf", "irab": "Jar" },
+          { "word": "سيدنا", "meaning": "pemimpin kita", "type": "isim", "irab": "Majrur" },
+          { "word": "محمد", "meaning": "Muhammad", "type": "isim", "irab": "Bada'" },
+          { "word": "وآله", "meaning": "dan keluarganya", "type": "huruf & isim", "irab": "Athaf" },
+          { "word": "وصحبه", "meaning": "dan sahabatnya", "type": "huruf & isim", "irab": "Athaf" }
+        ],
+        "translation": "Segala puji bagi Allah, serta shalawat dan salam semoga tercurah kepada junjungan kita Nabi Muhammad, keluarga, dan para sahabatnya."
+      },
+      {
+        "arabic": [
+          { "word": "وبعد", "meaning": "Dan setelah itu", "type": "huruf & isim", "irab": "Zhorof" },
+          { "word": "-", "meaning": "-", "type": "tanda baca", "irab": "-" },
+          { "word": "فلا", "meaning": "maka tidak", "type": "huruf", "irab": "Nafi" },
+          { "word": "يخفى", "meaning": "samar", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "أن", "meaning": "bahwa", "type": "huruf", "irab": "Taukid" },
+          { "word": "العناية", "meaning": "perhatian", "type": "isim", "irab": "Isim Anna" },
+          { "word": "بأخلاق", "meaning": "terhadap akhlak", "type": "huruf & isim", "irab": "Jar wa Majrur" },
+          { "word": "الأطفال", "meaning": "anak-anak", "type": "isim", "irab": "Mudhaf Ilayh" },
+          { "word": "من", "meaning": "dari", "type": "huruf", "irab": "Jar" },
+          { "word": "حين", "meaning": "sejak", "type": "isim", "irab": "Majrur" },
+          { "word": "نشأتهم", "meaning": "pertumbuhan mereka", "type": "isim & dhomir", "irab": "Mudhaf Ilayh" },
+          { "word": "أمر", "meaning": "perkara", "type": "isim", "irab": "Khobar Anna" },
+          { "word": "مهم", "meaning": "penting", "type": "isim", "irab": "Na'at" },
+          { "word": "جدا", "meaning": "sekali", "type": "isim", "irab": "Maf'ul Muthlaq" }
+        ],
+        "translation": "Dan setelah itu, sesungguhnya tidaklah samar bahwa perhatian terhadap akhlak anak-anak sejak pertumbuhan mereka adalah perkara yang sangat penting."
+      },
+      {
+        "arabic": [
+          { "word": "لأن", "meaning": "karena", "type": "huruf", "irab": "Jar" },
+          { "word": "على", "meaning": "atas", "type": "huruf", "irab": "Jar" },
+          { "word": "ذلك", "meaning": "itu / hal tersebut", "type": "isim isyarah", "irab": "Majrur" },
+          { "word": "مدار", "meaning": "poros / pusat", "type": "isim", "irab": "Mubtada' Muakkhor" },
+          { "word": "سعادتهم", "meaning": "kebahagiaan mereka", "type": "isim & dhomir", "irab": "Mudhaf Ilayh" },
+          { "word": "فى", "meaning": "di / dalam", "type": "huruf", "irab": "Jar" },
+          { "word": "المستقبل", "meaning": "masa depan", "type": "isim", "irab": "Majrur" }
+        ],
+        "translation": "Karena pada hal itulah poros kebahagiaan mereka di masa depan. Sebaliknya, jika mereka diabaikan hingga terbiasa dengan akhlak yang buruk, maka masa depan mereka akan sangat buruk."
+      },
+      {
+        "arabic": [
+          { "word": "ولذلك", "meaning": "dan karena itu", "type": "huruf & isim", "irab": "Jar wa Majrur" },
+          { "word": "رأيت", "meaning": "aku memandang / melihat", "type": "fi'il & dhomir", "irab": "Fi'il Madhi" },
+          { "word": "الحاجة", "meaning": "kebutuhan", "type": "isim", "irab": "Maf'ul Bih" },
+          { "word": "داعية", "meaning": "mendesak / memanggil", "type": "isim", "irab": "Na'at / Hal" },
+          { "word": "إلى", "meaning": "untuk", "type": "huruf", "irab": "Jar" },
+          { "word": "وضع", "meaning": "menyusun / meletakkan", "type": "isim", "irab": "Majrur" },
+          { "word": "كتاب", "meaning": "kitab / buku", "type": "isim", "irab": "Mudhaf Ilayh" }
+        ],
+        "translation": "Oleh karena itu, saya melihat adanya kebutuhan yang mendesak untuk menyusun sebuah kitab dalam bidang akhlak yang mudah bahasanya dan mudah dipahami."
       }
     ]
   },
   {
     "id": 2,
-    "titleTrans": "Bima dza yatakhalalqal walad?",
-    "titleAr": "بِمَاذَا يَتَخَلَّقُ الوَلَدُ؟",
+    "titleTrans": "1. Bima yatakhalalqal walad?",
+    "titleAr": "بِمَاذَا يَتَخَلَّقُ الْوَلَدُ؟",
     "refPage": 5,
     "paragraphs": [
       {
         "arabic": [
+          { "word": "١-", "meaning": "1-", "type": "nomor", "irab": "-" },
           { 
-            "word": "يَنْبَغِي", 
-            "meaning": "Seyogyanya / Sepantasnya", 
+            "word": "يَجِبُ", 
+            "meaning": "Wajib", 
             "type": "fi'il", 
             "irab": "Fi'il Mudhari' Marfu'",
             "morphology": {
-              "root": "ب غ ي",
-              "pattern": "اِنْفَعَلَ - يَنْفَعِلُ",
+              "root": "و ج ب",
+              "pattern": "فَعَلَ - يَفْعِلُ",
               "forms": {
-                "madhi": { "ar": "اِنْبَغَى", "id": "Pantas (Lampau)" },
-                "mudhari": { "ar": "يَنْبَغِي", "id": "Sedang pantas" },
-                "mashdar": { "ar": "اِنْبِغَاءً", "id": "Kepantasan" },
-                "isim_fail": { "ar": "مُنْبَغٍ", "id": "Sesuatu yang pantas" }
+                "madhi": { "ar": "وَجَبَ", "id": "Telah wajib" },
+                "mudhari": { "ar": "يَجِبُ", "id": "Wajib" },
+                "mashdar": { "ar": "وُجُوْبًا", "id": "Kewajiban" }
               }
             }
           },
-          { "word": "لِلْوَلَدِ", "meaning": "bagi seorang anak", "type": "huruf", "irab": "Jar wa Majrur" },
+          { "word": "عَلَى", "meaning": "atas", "type": "huruf", "irab": "Harf Jar" },
+          { "word": "الْوَلَدِ", "meaning": "seorang anak", "type": "isim", "irab": "Majrur" },
           { "word": "أَنْ", "meaning": "bahwa", "type": "huruf", "irab": "Harf Nashab" },
           { 
             "word": "يَتَخَلَّقَ", 
@@ -53,34 +111,389 @@
               "forms": {
                 "madhi": { "ar": "تَخَلَّقَ", "id": "Berakhlak (Lampau)" },
                 "mudhari": { "ar": "يَتَخَلَّقُ", "id": "Sedang berakhlak" },
-                "amr": { "ar": "تَخَلَّقْ", "id": "Berakhlaklah!" },
-                "mashdar": { "ar": "تَخَلُّقًا", "id": "Perangai akhlak" },
-                "isim_fail": { "ar": "مُتَخَلِّقٌ", "id": "Orang yang berakhlak" }
+                "mashdar": { "ar": "تَخَلُّقًا", "id": "Perangai" }
               }
             }
           },
-          { "word": "بِالأَخْلَاقِ", "meaning": "dengan akhlak", "type": "huruf", "irab": "Jar wa Majrur" },
-          { "word": "الحَسَنَةِ", "meaning": "yang baik", "type": "isim", "irab": "Na'at - Majrur" }
+          { "word": "بِالْأَخْلَاقِ", "meaning": "dengan akhlak", "type": "isim", "irab": "Jar wa Majrur" },
+          { "word": "الْحَسَنَةِ", "meaning": "yang baik", "type": "isim", "irab": "Na'at - Majrur" },
+          { "word": "مِنْ", "meaning": "dari", "type": "huruf", "irab": "Jar" },
+          { "word": "صِغَرِهِ", "meaning": "kecilnya", "type": "isim", "irab": "Majrur & Mudhaf Ilayh" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "لِيَعِيْشَ", "meaning": "agar dia hidup", "type": "huruf & fi'il", "irab": "Fi'il Mudhari' Manshub" },
+          { "word": "مَحْبُوْبًا", "meaning": "dicintai", "type": "isim", "irab": "Hal / Manshub" },
+          { "word": "فِي", "meaning": "di", "type": "huruf", "irab": "Jar" },
+          { "word": "كِبَرِهِ", "meaning": "besarnya (dewasa)", "type": "isim", "irab": "Majrur" },
+          { "word": ":", "meaning": ":", "type": "tanda baca", "irab": "-" },
+          { "word": "يَرْضَى", "meaning": "meridhai", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "عَنْهُ", "meaning": "darinya / kepadanya", "type": "huruf & dhomir", "irab": "Jar wa Majrur" },
+          { "word": "رَبُّهُ", "meaning": "Tuhannya", "type": "isim", "irab": "Fa'il & Mudhaf Ilayh" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَيُحِبُّهُ", "meaning": "dan mencintainya", "type": "huruf, fi'il & dhomir", "irab": "Ma'thuf" },
+          { "word": "أَهْلُهُ", "meaning": "keluarganya", "type": "isim", "irab": "Fa'il" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَجَمِيْعُ", "meaning": "dan seluruh", "type": "huruf & isim", "irab": "Ma'thuf" },
+          { "word": "النَّاسِ", "meaning": "manusia", "type": "isim", "irab": "Mudhaf Ilayh" },
+          { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
         ],
-        "translation": "Seyogyanya bagi seorang anak untuk berakhlak dengan akhlak yang baik."
+        "translation": "1- Wajib bagi seorang anak untuk berakhlak dengan akhlak yang baik sejak kecilnya, agar ia hidup dicintai di masa tuanya (dewasa): Tuhannya ridha kepadanya, dan keluarganya serta seluruh manusia mencintainya."
+      },
+      {
+        "arabic": [
+          { "word": "٢-", "meaning": "2-", "type": "nomor", "irab": "-" },
+          { "word": "وَيَجِبُ", "meaning": "dan wajib", "type": "huruf & fi'il", "irab": "Ma'thuf" },
+          { "word": "عَلَيْهِ", "meaning": "atasnya", "type": "huruf & dhomir", "irab": "Jar wa Majrur" },
+          { "word": "أَيْضًا", "meaning": "juga", "type": "isim", "irab": "Maf'ul Muthlaq" },
+          { "word": ":", "meaning": ":", "type": "tanda baca", "irab": "-" },
+          { "word": "أَنْ", "meaning": "bahwa", "type": "huruf", "irab": "Nashab" },
+          { "word": "يَبْتَعِدَ", "meaning": "dia menjauh", "type": "fi'il", "irab": "Fi'il Mudhari' Manshub" },
+          { "word": "عَنِ", "meaning": "dari", "type": "huruf", "irab": "Jar" },
+          { "word": "الْأَخْلَاقِ", "meaning": "akhlak-akhlak", "type": "isim", "irab": "Majrur" },
+          { "word": "الْقَبِيْحَةِ", "meaning": "yang buruk", "type": "isim", "irab": "Na'at" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "كَيْلَا", "meaning": "supaya tidak", "type": "huruf", "irab": "Nashab & Nafi" },
+          { "word": "يَكُوْنَ", "meaning": "dia menjadi", "type": "fi'il", "irab": "Fi'il Mudhari' Manshub (Kana)" },
+          { "word": "مَكْرُوْهًا", "meaning": "dibenci", "type": "isim", "irab": "Khobar Kana" },
+          { "word": ":", "meaning": ":", "type": "tanda baca", "irab": "-" },
+          { "word": "لَا", "meaning": "tidak", "type": "huruf", "irab": "Nafi" },
+          { "word": "يَرْضَى", "meaning": "ridha", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "عَنْهُ", "meaning": "darinya", "type": "huruf & dhomir", "irab": "Jar wa Majrur" },
+          { "word": "رَبُّهُ", "meaning": "Tuhannya", "type": "isim", "irab": "Fa'il" },
+          { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Ma'thuf & Nafi" },
+          { "word": "يُحِبُّهُ", "meaning": "mencintainya", "type": "fi'il & dhomir", "irab": "Ma'thuf" },
+          { "word": "أَهْلُهُ", "meaning": "keluarganya", "type": "isim", "irab": "Fa'il" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Ma'thuf & Nafi" },
+          { "word": "أَحَدٌ", "meaning": "seorang pun", "type": "isim", "irab": "Khobar / Ma'thuf" },
+          { "word": "مِنَ", "meaning": "dari", "type": "huruf", "irab": "Jar" },
+          { "word": "النَّاسِ", "meaning": "manusia", "type": "isim", "irab": "Majrur" },
+          { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+        ],
+        "translation": "2- Dan wajib baginya juga: menjauhkan diri dari akhlak yang buruk, agar ia tidak menjadi orang yang dibenci: Tuhannya tidak ridha kepadanya, keluarganya tidak mencintainya, dan tidak pula seorang pun dari manusia."
       }
     ]
   },
   {
     "id": 3,
-    "titleTrans": "Al-Waladul Adib",
-    "titleAr": "الولد الأديب",
+    "titleTrans": "2. Al-Waladul Adib",
+    "titleAr": "اَلْوَلَدُ الْأَدِيْبُ",
     "refPage": 5,
     "paragraphs": [
       {
         "arabic": [
-          { "word": "الوَلَدُ", "meaning": "Anak", "type": "isim", "irab": "Mubtada'" },
-          { "word": "الأَدِيْبُ", "meaning": "yang beradab", "type": "isim", "irab": "Na'at" },
-          { "word": "يُحِبُّهُ", "meaning": "dicintai oleh", "type": "fi'il", "irab": "Fi'il Mudhari'" },
-          { "word": "أبوه", "meaning": "ayahnya", "type": "isim", "irab": "Fa'il" },
-          { "word": "وأمه", "meaning": "dan ibunya", "type": "huruf", "irab": "Ma'thuf" }
+          { "word": "١-", "meaning": "1-", "type": "nomor", "irab": "-" },
+          { "word": "اَلْوَلَدُ", "meaning": "Anak", "type": "isim", "irab": "Mubtada'" },
+          { "word": "الْأَدِيْبُ", "meaning": "yang beradab", "type": "isim", "irab": "Na'at" },
+          { 
+            "word": "يَحْتَرِمُ", 
+            "meaning": "menghormati", 
+            "type": "fi'il", 
+            "irab": "Fi'il Mudhari' Marfu'",
+            "morphology": {
+              "root": "ح ر م",
+              "pattern": "اِفْتَعَلَ - يَفْتَعِلُ",
+              "forms": {
+                "madhi": { "ar": "اِحْتَرَمَ", "id": "Telah menghormati" },
+                "mudhari": { "ar": "يَحْتَرِمُ", "id": "Menghormati" },
+                "mashdar": { "ar": "اِحْتِرَامًا", "id": "Penghormatan" }
+              }
+            }
+          },
+          { "word": "وَالِدَيْهِ", "meaning": "kedua orang tuanya", "type": "isim", "irab": "Maf'ul Bih" },
+          { "word": "وَمُعَلِّمِيْهِ", "meaning": "dan guru-gurunya", "type": "isim", "irab": "Ma'thuf" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَإِخْوَانَهُ", "meaning": "dan saudara-saudaranya", "type": "isim", "irab": "Ma'thuf" },
+          { "word": "الْكِبَارَ", "meaning": "yang besar", "type": "isim", "irab": "Na'at" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَكُلَّ", "meaning": "dan setiap", "type": "isim", "irab": "Ma'thuf" },
+          { "word": "مَنْ", "meaning": "orang", "type": "isim", "irab": "Isim Mawshul" },
+          { "word": "هُوَ", "meaning": "dia", "type": "isim", "irab": "Dhomir / Mubtada'" },
+          { "word": "أَكْبَرُ", "meaning": "lebih besar", "type": "isim", "irab": "Khobar" },
+          { "word": "مِنْهُ", "meaning": "darinya", "type": "huruf & dhomir", "irab": "Jar wa Majrur" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَيَرْحَمُ", "meaning": "dan menyayangi", "type": "fi'il", "irab": "Ma'thuf" },
+          { "word": "إِخْوَانَهُ", "meaning": "saudara-saudaranya", "type": "isim", "irab": "Maf'ul Bih" },
+          { "word": "الصِّغَارَ", "meaning": "yang kecil", "type": "isim", "irab": "Na'at" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَكُلَّ", "meaning": "dan setiap", "type": "isim", "irab": "Ma'thuf" },
+          { "word": "مَنْ", "meaning": "orang", "type": "isim", "irab": "Isim Mawshul" },
+          { "word": "هُوَ", "meaning": "dia", "type": "isim", "irab": "Dhomir / Mubtada'" },
+          { "word": "أَصْغَرُ", "meaning": "lebih kecil", "type": "isim", "irab": "Khobar" },
+          { "word": "مِنْهُ", "meaning": "darinya", "type": "huruf & dhomir", "irab": "Jar wa Majrur" },
+          { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
         ],
-        "translation": "Anak yang beradab itu dicintai oleh ayah dan ibunya."
+        "translation": "1- Anak yang beradab menghormati kedua orang tuanya, guru-gurunya, saudara-saudaranya yang lebih besar, dan setiap orang yang lebih besar darinya. Serta menyayangi saudara-saudaranya yang lebih kecil, dan setiap orang yang lebih kecil darinya."
+      },
+      {
+        "arabic": [
+          { "word": "٢-", "meaning": "2-", "type": "nomor", "irab": "-" },
+          { "word": "وَيَصْدُقُ", "meaning": "dan dia jujur", "type": "fi'il", "irab": "Ma'thuf" },
+          { "word": "فِي", "meaning": "dalam", "type": "huruf", "irab": "Jar" },
+          { "word": "كَلَامِهِ", "meaning": "perkataannya", "type": "isim", "irab": "Majrur" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَيَتَوَاضَعُ", "meaning": "dan dia rendah hati", "type": "fi'il", "irab": "Ma'thuf" },
+          { "word": "مَعَ", "meaning": "beserta", "type": "isim", "irab": "Zhorof" },
+          { "word": "النَّاسِ", "meaning": "manusia", "type": "isim", "irab": "Majrur" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَيَصْبِرُ", "meaning": "dan dia bersabar", "type": "fi'il", "irab": "Ma'thuf" },
+          { "word": "عَلَى", "meaning": "atas", "type": "huruf", "irab": "Jar" },
+          { "word": "الْأَذَى", "meaning": "gangguan", "type": "isim", "irab": "Majrur" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Nafi" },
+          { "word": "يُقَاطِعُ", "meaning": "dia memotong", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "الْأَوْلَادَ", "meaning": "anak-anak", "type": "isim", "irab": "Maf'ul Bih" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Nafi" },
+          { "word": "يَتَخَاصَمُ", "meaning": "dia bertengkar", "type": "fi'il", "irab": "Ma'thuf" },
+          { "word": "مَعَهُمْ", "meaning": "dengan mereka", "type": "isim", "irab": "Majrur" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Nafi" },
+          { "word": "يَرْفَعُ", "meaning": "dia mengangkat", "type": "fi'il", "irab": "Ma'thuf" },
+          { "word": "صَوْتَهُ", "meaning": "suaranya", "type": "isim", "irab": "Maf'ul Bih" },
+          { "word": "إِذَا", "meaning": "apabila", "type": "isim", "irab": "Zhorof" },
+          { "word": "تَكَلَّمَ", "meaning": "dia berbicara", "type": "fi'il", "irab": "Fi'il Madhi" },
+          { "word": "أَوْ", "meaning": "atau", "type": "huruf", "irab": "Athaf" },
+          { "word": "ضَحِكَ", "meaning": "tertawa", "type": "fi'il", "irab": "Ma'thuf" },
+          { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+        ],
+        "translation": "2- Dan dia jujur dalam perkataannya, rendah hati kepada sesama manusia, bersabar atas gangguan, tidak memutuskan pembicaraan anak-anak lainnya, tidak bertengkar dengan mereka, serta tidak mengeraskan suaranya apabila berbicara atau tertawa."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titleTrans": "3. Al-Waladul Waqih",
+    "titleAr": "اَلْوَلَدُ الْوَقِحُ",
+    "refPage": 5,
+    "paragraphs": [
+      {
+        "arabic": [
+          { "word": "١-", "meaning": "1-", "type": "nomor", "irab": "-" },
+          { "word": "اَلْوَلَدُ", "meaning": "Anak", "type": "isim", "irab": "Mubtada'" },
+          { "word": "الْوَقِحُ", "meaning": "yang lancang/kurang ajar", "type": "isim", "irab": "Na'at" },
+          { "word": ":", "meaning": ":", "type": "tanda baca", "irab": "-" },
+          { "word": "لَا", "meaning": "tidak", "type": "huruf", "irab": "Nafi" },
+          { "word": "يَتَأَدَّبُ", "meaning": "dia beradab", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "مَعَ", "meaning": "beserta", "type": "isim", "irab": "Zhorof" },
+          { "word": "وَالِدَيْهِ", "meaning": "kedua orang tuanya", "type": "isim", "irab": "Majrur" },
+          { "word": "وَأَسَاتِذَتِهِ", "meaning": "dan guru-gurunya", "type": "isim", "irab": "Ma'thuf" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Nafi" },
+          { "word": "يَحْتَرِمُ", "meaning": "menghormati", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "مَنْ", "meaning": "orang", "type": "isim", "irab": "Isim Mawshul" },
+          { "word": "هُوَ", "meaning": "dia", "type": "isim", "irab": "Dhomir" },
+          { "word": "أَكْبَرُ", "meaning": "lebih besar", "type": "isim", "irab": "Na'at" },
+          { "word": "مِنْهُ", "meaning": "darinya", "type": "huruf & dhomir", "irab": "Jar wa Majrur" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Nafi" },
+          { "word": "يَرْحَمُ", "meaning": "menyayangi", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "مَنْ", "meaning": "orang", "type": "isim", "irab": "Isim Mawshul" },
+          { "word": "هُوَ", "meaning": "dia", "type": "isim", "irab": "Dhomir" },
+          { "word": "أَصْغَرُ", "meaning": "lebih kecil", "type": "isim", "irab": "Na'at" },
+          { "word": "مِنْهُ", "meaning": "darinya", "type": "huruf & dhomir", "irab": "Jar wa Majrur" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَيَكْذِبُ", "meaning": "dan dia berbohong", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "إِذَا", "meaning": "apabila", "type": "isim", "irab": "Zhorof" },
+          { "word": "تَكَلَّمَ", "meaning": "dia berbicara", "type": "fi'il", "irab": "Fi'il Madhi" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَيَرْفَعُ", "meaning": "dan dia meninggikan", "type": "fi'il", "irab": "Ma'thuf" },
+          { "word": "صَوْتَهُ", "meaning": "suaranya", "type": "isim", "irab": "Maf'ul Bih" },
+          { "word": "إِذَا", "meaning": "apabila", "type": "isim", "irab": "Zhorof" },
+          { "word": "ضَحِكَ", "meaning": "tertawa", "type": "fi'il", "irab": "Fi'il Madhi" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَيُحِبُّ", "meaning": "dan dia menyukai", "type": "fi'il", "irab": "Ma'thuf" },
+          { "word": "الشَّتْمَ", "meaning": "mencela", "type": "isim", "irab": "Maf'ul Bih" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَالْكَلَامَ", "meaning": "dan perkataan", "type": "isim", "irab": "Ma'thuf" },
+          { "word": "الْقَبِيْحَ", "meaning": "yang buruk", "type": "isim", "irab": "Na'at" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَالْمُخَاصَمَةَ", "meaning": "dan pertengkaran", "type": "isim", "irab": "Ma'thuf" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَيَسْتَهْزِئُ", "meaning": "dan dia mengolok-olok", "type": "fi'il", "irab": "Ma'thuf" },
+          { "word": "بِغَيْرِهِ", "meaning": "dengan selainnya", "type": "isim", "irab": "Jar wa Majrur" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَيَتَكَبَّرُ", "meaning": "dan dia sombong", "type": "fi'il", "irab": "Ma'thuf" },
+          { "word": "عَلَيْهِ", "meaning": "kepadanya", "type": "isim", "irab": "Jar wa Majrur" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Nafi" },
+          { "word": "يَسْتَحْيِي", "meaning": "dia malu", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "أَنْ", "meaning": "bahwa", "type": "huruf", "irab": "Nashab" },
+          { "word": "يَعْمَلَ", "meaning": "dia melakukan", "type": "fi'il", "irab": "Fi'il Mudhari' Manshub" },
+          { "word": "قَبِيْحًا", "meaning": "keburukan", "type": "isim", "irab": "Maf'ul Bih" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Nafi" },
+          { "word": "يَسْمَعُ", "meaning": "mendengarkan", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "النَّصِيْحَةَ", "meaning": "nasihat", "type": "isim", "irab": "Maf'ul Bih" },
+          { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+        ],
+        "translation": "1- Anak yang lancang: tidak beradab kepada kedua orang tuanya dan guru-gurunya, tidak menghormati orang yang lebih besar darinya, tidak menyayangi orang yang lebih kecil darinya, berbohong apabila berbicara, mengeraskan suaranya apabila tertawa, suka mencela, berkata-kata buruk, bertengkar, mengolok-olok orang lain, sombong kepadanya, tidak malu melakukan keburukan, dan tidak mau mendengarkan nasihat."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titleTrans": "4. Pentingnya Adab Sejak Kecil",
+    "titleAr": "يَجِبُ أَنْ يَتَأَدَّبَ الْوَلَدُ مِنْ صِغَرِهِ",
+    "refPage": 6,
+    "paragraphs": [
+      {
+        "arabic": [
+          { "word": "أَحْمَدُ", "meaning": "Ahmad", "type": "isim", "irab": "Mubtada'" },
+          { "word": "وَلَدٌ", "meaning": "seorang anak", "type": "isim", "irab": "Khobar" },
+          { "word": "صَغِيْرٌ", "meaning": "yang kecil", "type": "isim", "irab": "Na'at" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "لَكِنَّهُ", "meaning": "tetapi dia", "type": "huruf & dhomir", "irab": "Istidrak" },
+          { "word": "أَدِيْبٌ", "meaning": "beradab", "type": "isim", "irab": "Khobar Lakinna" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَلِهَذَا", "meaning": "dan karena ini", "type": "huruf & isim", "irab": "Jar wa Majrur" },
+          { "word": "يُحِبُّهُ", "meaning": "mencintainya", "type": "fi'il & dhomir", "irab": "Fi'il Mudhari'" },
+          { "word": "أَبُوْهُ", "meaning": "ayahnya", "type": "isim", "irab": "Fa'il" },
+          { "word": "وَأُمُّهُ", "meaning": "dan ibunya", "type": "huruf & isim", "irab": "Ma'thuf" },
+          { "word": "وَمُعَلِّمُوْهُ", "meaning": "dan guru-gurunya", "type": "huruf & isim", "irab": "Ma'thuf" },
+          { "word": "وَجَمِيْعُ", "meaning": "dan seluruh", "type": "huruf & isim", "irab": "Ma'thuf" },
+          { "word": "النَّاسِ", "meaning": "manusia", "type": "isim", "irab": "Mudhaf Ilayh" },
+          { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+        ],
+        "translation": "Ahmad adalah anak yang masih kecil, tetapi ia sangat beradab. Oleh karena itu, ia dicintai oleh ayahnya, ibunya, guru-gurunya, dan seluruh manusia."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titleTrans": "5. Allah Subhanahu wa Ta'ala",
+    "titleAr": "اَللهُ سُبْحَانَهُ وَتَعَالَى",
+    "refPage": 6,
+    "paragraphs": [
+      {
+        "arabic": [
+          { "word": "أَيُّهَا", "meaning": "Wahai", "type": "huruf", "irab": "Nida'" },
+          { "word": "الْوَلَدُ", "meaning": "anak", "type": "isim", "irab": "Munada" },
+          { "word": "الْعَزِيْزُ", "meaning": "yang mulia / tersayang", "type": "isim", "irab": "Na'at" },
+          { "word": "؛", "meaning": ";", "type": "tanda baca", "irab": "-" },
+          { "word": "اَللهُ", "meaning": "Allah", "type": "isim", "irab": "Mubtada'" },
+          { "word": "سُبْحَانَهُ", "meaning": "Maha Suci Dia", "type": "isim", "irab": "Maf'ul Muthlaq" },
+          { "word": "وَتَعَالَى", "meaning": "dan Maha Tinggi", "type": "huruf & fi'il", "irab": "Athaf" },
+          { "word": "هُوَ", "meaning": "Dia-lah", "type": "isim", "irab": "Dhomir / Mubtada' Thani" },
+          { "word": "الَّذِيْ", "meaning": "yang", "type": "isim", "irab": "Isim Mawshul / Khobar" },
+          { "word": "خَلَقَكَ", "meaning": "menciptakanmu", "type": "fi'il & dhomir", "irab": "Fi'il Madhi" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "وَحَسَّنَ", "meaning": "dan membaguskan", "type": "huruf & fi'il", "irab": "Ma'thuf" },
+          { "word": "صُوْرَتَكَ", "meaning": "rupamu", "type": "isim & dhomir", "irab": "Maf'ul Bih" }
+        ],
+        "translation": "Wahai anakku yang tersayang; Allah Subhanahu wa Ta'ala adalah Dzat yang telah menciptakanmu, membaguskan rupamu, dan memberikanmu berbagai nikmat."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titleTrans": "6. Anak yang Jujur (Amanah)",
+    "titleAr": "اَلْوَلَدُ الْأَمِيْنُ",
+    "refPage": 7,
+    "paragraphs": [
+      {
+        "arabic": [
+          { "word": "مُحَمَّدٌ", "meaning": "Muhammad", "type": "isim", "irab": "Mubtada'" },
+          { "word": "وَلَدٌ", "meaning": "seorang anak", "type": "isim", "irab": "Khobar" },
+          { "word": "أَمِيْنٌ", "meaning": "yang jujur", "type": "isim", "irab": "Na'at" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "يَعْلَمُ", "meaning": "dia tahu", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "أَنَّ", "meaning": "bahwa", "type": "huruf", "irab": "Taukid" },
+          { "word": "اللهَ", "meaning": "Allah", "type": "isim", "irab": "Isim Anna" },
+          { "word": "يَرَاهُ", "meaning": "melihatnya", "type": "fi'il & dhomir", "irab": "Khobar Anna" },
+          { "word": "كُلَّ", "meaning": "setiap", "type": "isim", "irab": "Zhorof" },
+          { "word": "وَقْتٍ", "meaning": "waktu", "type": "isim", "irab": "Mudhaf Ilayh" }
+        ],
+        "translation": "Muhammad adalah anak yang jujur. Ia mengetahui bahwa Allah senantiasa melihatnya setiap saat, baik di waktu sepi maupun ramai."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titleTrans": "7. Anak yang Taat",
+    "titleAr": "الْوَلَدُ الْمُطِيْعُ",
+    "refPage": 8,
+    "paragraphs": [
+      {
+        "arabic": [
+          { "word": "حَسَنٌ", "meaning": "Hasan", "type": "isim", "irab": "Mubtada'" },
+          { "word": "وَلَدٌ", "meaning": "seorang anak", "type": "isim", "irab": "Khobar" },
+          { "word": "مُطِيْعٌ", "meaning": "yang taat", "type": "isim", "irab": "Na'at" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "يُصَلِّي", "meaning": "dia shalat", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "الصَّلَوَاتِ", "meaning": "shalat-shalat", "type": "isim", "irab": "Maf'ul Bih" },
+          { "word": "فِي", "meaning": "pada", "type": "huruf", "irab": "Jar" },
+          { "word": "أَوْقَاتِهَا", "meaning": "waktunya", "type": "isim & dhomir", "irab": "Majrur" }
+        ],
+        "translation": "Hasan adalah anak yang taat. Ia senantiasa mendirikan shalat pada waktunya dan menaati perintah kedua orang tuanya."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "titleTrans": "8. Nabimu Muhammad SAW",
+    "titleAr": "نَبِيُّكَ مُحَمَّدٌ ﷺ",
+    "refPage": 8,
+    "paragraphs": [
+      {
+        "arabic": [
+          { "word": "نَبِيُّكَ", "meaning": "Nabimu", "type": "isim", "irab": "Mubtada'" },
+          { "word": "مُحَمَّدٌ", "meaning": "Muhammad", "type": "isim", "irab": "Khobar" },
+          { "word": "ﷺ", "meaning": "Shallallahu 'alaihi wa sallam", "type": "huruf", "irab": "-" },
+          { "word": "؛", "meaning": ";", "type": "tanda baca", "irab": "-" },
+          { "word": "هُوَ", "meaning": "Dia-lah", "type": "isim", "irab": "Dhomir" },
+          { "word": "الَّذِيْ", "meaning": "yang", "type": "isim", "irab": "Isim Mawshul" },
+          { "word": "عَرَّفَكَ", "meaning": "mengenalkanmu", "type": "fi'il & dhomir", "irab": "Fi'il Madhi" },
+          { "word": "رَبَّكَ", "meaning": "Tuhanmu", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+          { "word": "وَدِيْنَكَ", "meaning": "dan agamamu", "type": "huruf & isim", "irab": "Ma'thuf" }
+        ],
+        "translation": "Nabimu adalah Muhammad SAW; Beliau adalah orang yang mengenalkanmu kepada Tuhanmu dan agamamu. Maka wajib bagimu untuk mencintai dan mengagungkan beliau."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "titleTrans": "9. Adab di Dalam Rumah",
+    "titleAr": "آدَابُ الْمَنْزِلِ",
+    "refPage": 9,
+    "paragraphs": [
+      {
+        "arabic": [
+          { "word": "يَجِبُ", "meaning": "Wajib", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "عَلَى", "meaning": "atas", "type": "huruf", "irab": "Jar" },
+          { "word": "الْوَلَدِ", "meaning": "anak", "type": "isim", "irab": "Majrur" },
+          { "word": "إِذَا", "meaning": "apabila", "type": "isim", "irab": "Zhorof" },
+          { "word": "دَخَلَ", "meaning": "dia masuk", "type": "fi'il", "irab": "Fi'il Madhi" },
+          { "word": "مَنْزِلَهُ", "meaning": "rumahnya", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+          { "word": "أَنْ", "meaning": "bahwa", "type": "huruf", "irab": "Nashab" },
+          { "word": "يُسَلِّمَ", "meaning": "dia mengucapkan salam", "type": "fi'il", "irab": "Fi'il Mudhari' Manshub" },
+          { "word": "عَلَى", "meaning": "atas", "type": "huruf", "irab": "Jar" },
+          { "word": "أَهْلِ", "meaning": "keluarga", "type": "isim", "irab": "Majrur" },
+          { "word": "بَيْتِهِ", "meaning": "rumahnya", "type": "isim", "irab": "Mudhaf Ilayh" }
+        ],
+        "translation": "Seorang anak wajib apabila memasuki rumahnya untuk mengucapkan salam kepada penghuni rumahnya, mencium tangan kedua orang tuanya, serta menghormati saudara yang lebih tua."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "titleTrans": "10. Abdullah di Dalam Rumahnya",
+    "titleAr": "عَبْدُ اللهِ فِي مَنْزِلِهِ",
+    "refPage": 10,
+    "paragraphs": [
+      {
+        "arabic": [
+          { "word": "عَبْدُ اللهِ", "meaning": "Abdullah", "type": "isim", "irab": "Mubtada'" },
+          { "word": "إِذَا", "meaning": "apabila", "type": "isim", "irab": "Zhorof" },
+          { "word": "كَانَ", "meaning": "dia adalah (berada)", "type": "fi'il", "irab": "Kana / Madhi" },
+          { "word": "فِي", "meaning": "di", "type": "huruf", "irab": "Jar" },
+          { "word": "مَنْزِلِهِ", "meaning": "rumahnya", "type": "isim", "irab": "Majrur" },
+          { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+          { "word": "فَقَدْ", "meaning": "maka sungguh", "type": "huruf", "irab": "Tahqiq" },
+          { "word": "يَتَأَدَّبُ", "meaning": "dia beradab", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "مَعَ", "meaning": "bersama / kepada", "type": "isim", "irab": "Zhorof" },
+          { "word": "أَهْلِهِ", "meaning": "keluarganya", "type": "isim", "irab": "Majrur" }
+        ],
+        "translation": "Abdullah apabila ia berada di rumahnya, ia senantiasa beradab kepada keluarganya, mencintai mereka semua, dan membantu pekerjaan orang tuanya."
       }
     ]
   }
