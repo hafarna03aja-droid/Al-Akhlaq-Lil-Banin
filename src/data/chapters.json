@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "titleTrans": "Muqaddimah Kitab",
+    "titleAr": "مقدمة الكتاب",
+    "refPage": 3,
+    "paragraphs": [
+      {
+        "arabic": [
+          { "word": "الحمد", "meaning": "Segala puji", "type": "isim", "irab": "Mubtada' - Marfu' bi al-dhammah" },
+          { "word": "لله", "meaning": "bagi Allah", "type": "huruf", "irab": "Jar wa Majrur" },
+          { "word": "رب", "meaning": "Tuhan", "type": "isim", "irab": "Na'at - Majrur" },
+          { "word": "العالمين", "meaning": "semesta alam", "type": "isim", "irab": "Mudhaf Ilayh - Majrur bi al-ya'" }
+        ],
+        "translation": "Segala puji bagi Allah, Tuhan semesta alam."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titleTrans": "Bima dza yatakhalalqal walad?",
+    "titleAr": "بِمَاذَا يَتَخَلَّقُ الوَلَدُ؟",
+    "refPage": 5,
+    "paragraphs": [
+      {
+        "arabic": [
+          { 
+            "word": "يَنْبَغِي", 
+            "meaning": "Seyogyanya / Sepantasnya", 
+            "type": "fi'il", 
+            "irab": "Fi'il Mudhari' Marfu'",
+            "morphology": {
+              "root": "ب غ ي",
+              "pattern": "اِنْفَعَلَ - يَنْفَعِلُ",
+              "forms": {
+                "madhi": { "ar": "اِنْبَغَى", "id": "Pantas (Lampau)" },
+                "mudhari": { "ar": "يَنْبَغِي", "id": "Sedang pantas" },
+                "mashdar": { "ar": "اِنْبِغَاءً", "id": "Kepantasan" },
+                "isim_fail": { "ar": "مُنْبَغٍ", "id": "Sesuatu yang pantas" }
+              }
+            }
+          },
+          { "word": "لِلْوَلَدِ", "meaning": "bagi seorang anak", "type": "huruf", "irab": "Jar wa Majrur" },
+          { "word": "أَنْ", "meaning": "bahwa", "type": "huruf", "irab": "Harf Nashab" },
+          { 
+            "word": "يَتَخَلَّقَ", 
+            "meaning": "berakhlak", 
+            "type": "fi'il", 
+            "irab": "Fi'il Mudhari' Manshub bi 'an'",
+            "morphology": {
+              "root": "خ ل ق",
+              "pattern": "تَفَعَّلَ - يَتَفَعَّلُ",
+              "forms": {
+                "madhi": { "ar": "تَخَلَّقَ", "id": "Berakhlak (Lampau)" },
+                "mudhari": { "ar": "يَتَخَلَّقُ", "id": "Sedang berakhlak" },
+                "amr": { "ar": "تَخَلَّقْ", "id": "Berakhlaklah!" },
+                "mashdar": { "ar": "تَخَلُّقًا", "id": "Perangai akhlak" },
+                "isim_fail": { "ar": "مُتَخَلِّقٌ", "id": "Orang yang berakhlak" }
+              }
+            }
+          },
+          { "word": "بِالأَخْلَاقِ", "meaning": "dengan akhlak", "type": "huruf", "irab": "Jar wa Majrur" },
+          { "word": "الحَسَنَةِ", "meaning": "yang baik", "type": "isim", "irab": "Na'at - Majrur" }
+        ],
+        "translation": "Seyogyanya bagi seorang anak untuk berakhlak dengan akhlak yang baik."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titleTrans": "Al-Waladul Adib",
+    "titleAr": "الولد الأديب",
+    "refPage": 5,
+    "paragraphs": [
+      {
+        "arabic": [
+          { "word": "الوَلَدُ", "meaning": "Anak", "type": "isim", "irab": "Mubtada'" },
+          { "word": "الأَدِيْبُ", "meaning": "yang beradab", "type": "isim", "irab": "Na'at" },
+          { "word": "يُحِبُّهُ", "meaning": "dicintai oleh", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+          { "word": "أبوه", "meaning": "ayahnya", "type": "isim", "irab": "Fa'il" },
+          { "word": "وأمه", "meaning": "dan ibunya", "type": "huruf", "irab": "Ma'thuf" }
+        ],
+        "translation": "Anak yang beradab itu dicintai oleh ayah dan ibunya."
+      }
+    ]
+  }
+]
