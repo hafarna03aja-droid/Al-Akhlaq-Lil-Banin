@@ -1,0 +1,215 @@
+{
+  "id": 14,
+  "titleTrans": "13. Shalih dan Ibunya",
+  "titleAr": "صَالِحٌ وَأُمُّهُ",
+  "refPage": 12,
+  "paragraphs": [
+    {
+      "arabic": [
+        { "word": "كَانَ", "meaning": "Adalah", "type": "fi'il", "irab": "Fi'il Madhi Naqish" },
+        { "word": "صَالِحٌ", "meaning": "Shalih (nama anak)", "type": "isim", "irab": "Isim Kana" },
+        { "word": "وَلَدًا", "meaning": "seorang anak", "type": "isim", "irab": "Khobar Kana" },
+        { "word": "بَارًّا", "meaning": "yang berbakti", "type": "isim", "irab": "Na'at" },
+        { "word": "بِأُمِّهِ", "meaning": "kepada ibunya", "type": "huruf & isim & dhomir", "irab": "Jar & Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { 
+          "word": "يَخْدُمُهَا", 
+          "meaning": "ia melayaninya / membantunya", 
+          "type": "fi'il & dhomir", 
+          "irab": "Fi'il Mudhari' Marfu'",
+          "morphology": {
+            "root": "خ د م",
+            "pattern": "فَعَلَ - يَفْعُلُ",
+            "forms": {
+              "madhi": { "ar": "خَدَمَ", "id": "Telah melayani" },
+              "mudhari": { "ar": "يَخْدُمُ", "id": "Sedang melayani" },
+              "mashdar": { "ar": "خِدْمَةً", "id": "Pelayanan / Bantuan" }
+            }
+          }
+        },
+        { "word": "وَيُطِيعُهَا", "meaning": "dan ia menaatinya", "type": "huruf & fi'il & dhomir", "irab": "Ma'thuf" },
+        { "word": "فِي", "meaning": "dalam", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "كُلِّ", "meaning": "setiap", "type": "isim", "irab": "Majrur" },
+        { "word": "أَمْرٍ", "meaning": "urusan / perkara", "type": "isim", "irab": "Mudhaf Ilayh" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَيُحِبُّهَا", "meaning": "dan ia mencintainya", "type": "huruf & fi'il & dhomir", "irab": "Ma'thuf" },
+        { "word": "حُبًّا", "meaning": "dengan kecintaan", "type": "isim", "irab": "Maf'ul Muthlaq" },
+        { "word": "جَزِيلًا", "meaning": "yang besar / melimpah", "type": "isim", "irab": "Na'at" },
+        { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+      ],
+      "translation": "Shalih adalah seorang anak yang berbakti kepada ibunya, ia melayani dan menaatinya dalam setiap urusan, serta mencintainya dengan kecintaan yang sangat besar."
+    },
+    {
+      "arabic": [
+        { "word": "وَفِي", "meaning": "Dan di", "type": "huruf & huruf", "irab": "Harf Athaf & Jar" },
+        { "word": "يَوْمٍ", "meaning": "suatu hari", "type": "isim", "irab": "Majrur" },
+        { "word": "مِنَ", "meaning": "dari", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "الْأَيَّامِ", "meaning": "hari-hari", "type": "isim", "irab": "Majrur" },
+        { 
+          "word": "مَرِضَتْ", 
+          "meaning": "telah jatuh sakit", 
+          "type": "fi'il", 
+          "irab": "Fi'il Madhi",
+          "morphology": {
+            "root": "م ر ض",
+            "pattern": "فَعِلَ - يَفْعَلُ",
+            "forms": {
+              "madhi": { "ar": "مَرِضَ", "id": "Telah sakit" },
+              "mudhari": { "ar": "يَمْرَضُ", "id": "Sedang sakit" },
+              "mashdar": { "ar": "مَرَضًا", "id": "Penyakit" }
+            }
+          }
+        },
+        { "word": "أُمُّهُ", "meaning": "ibunya", "type": "isim & dhomir", "irab": "Fa'il" },
+        { "word": "مَرَضًا", "meaning": "dengan penyakit / sakit", "type": "isim", "irab": "Maf'ul Muthlaq" },
+        { "word": "شَدِيدًا", "meaning": "yang parah / berat", "type": "isim", "irab": "Na'at" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { 
+          "word": "فَحَزِنَ", 
+          "meaning": "maka bersedihlah", 
+          "type": "huruf & fi'il", 
+          "irab": "Fi'il Madhi",
+          "morphology": {
+            "root": "ح ز ن",
+            "pattern": "فَعِلَ - يَفْعَلُ",
+            "forms": {
+              "madhi": { "ar": "حَزِنَ", "id": "Telah bersedih" },
+              "mudhari": { "ar": "يَحْزَنُ", "id": "Sedang bersedih" },
+              "mashdar": { "ar": "حُزْنًا", "id": "Kesedihan" }
+            }
+          }
+        },
+        { "word": "صَالِحٌ", "meaning": "Shalih", "type": "isim", "irab": "Fa'il" },
+        { "word": "حُزْنًا", "meaning": "dengan kesedihan", "type": "isim", "irab": "Maf'ul Muthlaq" },
+        { "word": "كَبِيرًا", "meaning": "yang besar", "type": "isim", "irab": "Na'at" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَجَلَسَ", "meaning": "dan ia duduk", "type": "huruf & fi'il", "irab": "Ma'thuf (Madhi)" },
+        { "word": "عِنْدَهَا", "meaning": "di sisinya", "type": "isim & dhomir", "irab": "Zhorof" },
+        { "word": "لَا", "meaning": "tidak", "type": "huruf", "irab": "Harf Nafi" },
+        { 
+          "word": "يُفَارِقُهَا", 
+          "meaning": "ia meninggalkannya / memisahinya", 
+          "type": "fi'il & dhomir", 
+          "irab": "Fi'il Mudhari' Marfu'",
+          "morphology": {
+            "root": "ف ر ق",
+            "pattern": "فَاعَلَ - يُفَاعِلُ",
+            "forms": {
+              "madhi": { "ar": "فَارَقَ", "id": "Telah memisahi / meninggalkan" },
+              "mudhari": { "ar": "يُفَارِقُ", "id": "Sedang memisahi" },
+              "mashdar": { "ar": "مُفَارَقَةً", "id": "Perpisahan / Pemisahan" }
+            }
+          }
+        },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { 
+          "word": "وَاسْتَأْذَنَ", 
+          "meaning": "dan ia meminta izin", 
+          "type": "huruf & fi'il", 
+          "irab": "Fi'il Madhi",
+          "morphology": {
+            "root": "أ ذ ن",
+            "pattern": "اِسْتَفْعَلَ - يَسْتَفْعِلُ",
+            "forms": {
+              "madhi": { "ar": "اِسْتَأْذَنَ", "id": "Telah meminta izin" },
+              "mudhari": { "ar": "يَسْتَأْذِنُ", "id": "Sedang meminta izin" },
+              "mashdar": { "ar": "اِسْتِئْذَانًا", "id": "Permintaan izin" }
+            }
+          }
+        },
+        { "word": "مِنْ", "meaning": "dari", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "مُعَلِّمِهِ", "meaning": "gurunya", "type": "isim & dhomir", "irab": "Majrur" },
+        { "word": "فِي", "meaning": "dalam (hal)", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "الْغِيَابِ", "meaning": "absen / tidak masuk", "type": "isim", "irab": "Majrur" },
+        { "word": "عَنِ", "meaning": "dari", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "الْمَدْرَسَةِ", "meaning": "sekolah", "type": "isim", "irab": "Majrur" },
+        { "word": "لِيَقُومَ", "meaning": "agar ia melakukan", "type": "huruf & fi'il", "irab": "Fi'il Mudhari' Manshub (Lam Kay)" },
+        { "word": "بِخِدْمَتِهَا", "meaning": "dengan melayaninya", "type": "huruf & isim & dhomir", "irab": "Jar & Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "لِأَنَّهُ", "meaning": "karena sesungguhnya ia (ibunya)", "type": "huruf & dhomir", "irab": "Isim Anna" },
+        { "word": "لَيْسَ", "meaning": "tidak ada / bukan", "type": "fi'il", "irab": "Fi'il Madhi Naqish" },
+        { "word": "لَهَا", "meaning": "baginya / miliknya", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "خَادِمَةٌ", "meaning": "seorang pelayan perempuan", "type": "isim", "irab": "Isim Laisa" },
+        { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+      ],
+      "translation": "Pada suatu hari, ibunya jatuh sakit parah, maka Shalih merasa sangat sedih dan ia duduk di sisi ibunya tanpa meninggalkannya. Ia pun meminta izin kepada gurunya untuk tidak masuk sekolah agar dapat melayani ibunya, karena ibunya tidak memiliki pelayan."
+    },
+    {
+      "arabic": [
+        { "word": "وَبَقِيَ", "meaning": "Dan tetaplah / bertahanlah", "type": "huruf & fi'il", "irab": "Fi'il Madhi" },
+        { "word": "صَالِحٌ", "meaning": "Shalih", "type": "isim", "irab": "Fa'il" },
+        { "word": "يَقُومُ", "meaning": "melakukan / melaksanakan", "type": "fi'il", "irab": "Fi'il Mudhari' Marfu'" },
+        { "word": "بِمُعَالَجَتِهَا", "meaning": "dengan mengobatinya / merawatnya", "type": "huruf & isim & dhomir", "irab": "Jar & Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَيَأْتِي", "meaning": "dan ia mendatangkan / membawakan", "type": "huruf & fi'il", "irab": "Ma'thuf" },
+        { "word": "لَهَا", "meaning": "kepadanya", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "بِالدَّوَاءِ", "meaning": "dengan obat", "type": "huruf & isim", "irab": "Jar & Majrur" },
+        { "word": "وَالطَّعَامِ", "meaning": "dan makanan", "type": "huruf & isim", "irab": "Ma'thuf" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { 
+          "word": "وَيَسْهَرُ", 
+          "meaning": "dan ia begadang / berjaga di malam hari", 
+          "type": "huruf & fi'il", 
+          "irab": "Fi'il Mudhari' Marfu'",
+          "morphology": {
+            "root": "س ه ر",
+            "pattern": "فَعَلَ - يَفْعَلُ",
+            "forms": {
+              "madhi": { "ar": "سَهَرَ", "id": "Telah begadang" },
+              "mudhari": { "ar": "يَسْهَرُ", "id": "Sedang begadang" },
+              "mashdar": { "ar": "سَهَرًا", "id": "Begadang / Jaga malam" }
+            }
+          }
+        },
+        { "word": "اللَّيْلَ", "meaning": "malam hari", "type": "isim", "irab": "Zhorof Zaman" },
+        { "word": "لِخِدْمَتِهَا", "meaning": "untuk melayaninya", "type": "huruf & isim & dhomir", "irab": "Jar & Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "حَتَّى", "meaning": "sehingga / sampai", "type": "huruf", "irab": "Harf Ghoyah" },
+        { 
+          "word": "شَفَاهَا", 
+          "meaning": "telah menyembuhkannya", 
+          "type": "fi'il & dhomir", 
+          "irab": "Fi'il Madhi & Maf'ul Bih",
+          "morphology": {
+            "root": "ش ف ي",
+            "pattern": "فَعَلَ - يَفْعِي",
+            "forms": {
+              "madhi": { "ar": "شَفَى", "id": "Telah menyembuhkan" },
+              "mudhari": { "ar": "يَشْفِي", "id": "Sedang menyembuhkan" },
+              "mashdar": { "ar": "شِفَاءً", "id": "Kesembuhan" }
+            }
+          }
+        },
+        { "word": "اللَّهُ", "meaning": "Allah", "type": "isim", "irab": "Fa'il" },
+        { "word": "تَعَالَى", "meaning": "Maha Tinggi", "type": "fi'il", "irab": "Fi'il Madhi" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { 
+          "word": "فَشَكَرَتْهُ", 
+          "meaning": "maka ia (ibunya) berterima kasih kepadanya", 
+          "type": "huruf & fi'il & dhomir", 
+          "irab": "Fi'il Madhi & Maf'ul Bih",
+          "morphology": {
+            "root": "ش ك ر",
+            "pattern": "فَعَلَ - يَفْعُلُ",
+            "forms": {
+              "madhi": { "ar": "شَكَرَ", "id": "Telah bersyukur / berterima kasih" },
+              "mudhari": { "ar": "يَشْكُرُ", "id": "Sedang bersyukur" },
+              "mashdar": { "ar": "شُكْرًا", "id": "Syukur / Terima kasih" }
+            }
+          }
+        },
+        { "word": "أُمُّهُ", "meaning": "ibunya", "type": "isim & dhomir", "irab": "Fa'il" },
+        { "word": "وَدَعَتْ", "meaning": "dan ia berdoa", "type": "huruf & fi'il", "irab": "Ma'thuf" },
+        { "word": "لَهُ", "meaning": "baginya", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "بِالْخَيْرِ", "meaning": "dengan kebaikan", "type": "huruf & isim", "irab": "Jar & Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَفَرِحَتْ", "meaning": "dan ia merasa senang / gembira", "type": "huruf & fi'il", "irab": "Ma'thuf" },
+        { "word": "بِبِرِّهِ", "meaning": "dengan kebaktiannya", "type": "huruf & isim & dhomir", "irab": "Jar & Majrur" },
+        { "word": "فَرَحًا", "meaning": "dengan kegembiraan", "type": "isim", "irab": "Maf'ul Muthlaq" },
+        { "word": "عَظِيمًا", "meaning": "yang agung / besar", "type": "isim", "irab": "Na'at" },
+        { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+      ],
+      "translation": "Shalih terus merawat ibunya, membawakannya obat dan makanan, serta terjaga di malam hari untuk melayaninya sampai Allah SWT menyembuhkannya. Ibunya pun berterima kasih kepadanya, mendoakannya dengan kebaikan, dan merasa sangat bahagia atas kebaktian putranya itu."
+    }
+  ]
+}

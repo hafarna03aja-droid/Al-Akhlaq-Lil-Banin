@@ -1,0 +1,180 @@
+{
+  "id": 12,
+  "titleTrans": "11. Ibumu yang Penyayang",
+  "titleAr": "أُمُّكَ الرَّحِيْمَةُ",
+  "refPage": 10,
+  "paragraphs": [
+    {
+      "arabic": [
+        { "word": "١-", "meaning": "1-", "type": "nomor", "irab": "-" },
+        { 
+          "word": "إِعْلَمْ", 
+          "meaning": "Ketahuilah", 
+          "type": "fi'il", 
+          "irab": "Fi'il Amr",
+          "morphology": {
+            "root": "ع ل م",
+            "pattern": "فَعَلَ - يَفْعَلُ",
+            "forms": {
+              "madhi": { "ar": "عَلِمَ", "id": "Telah mengetahui" },
+              "mudhari": { "ar": "يَعْلَمُ", "id": "Sedang mengetahui" },
+              "mashdar": { "ar": "عِلْمًا", "id": "Ilmu / Pengetahuan" }
+            }
+          }
+        },
+        { "word": "يَا", "meaning": "wahai", "type": "huruf", "irab": "Harf Nida'" },
+        { "word": "بُنَيَّ", "meaning": "anakku sayang", "type": "isim", "irab": "Munada" },
+        { "word": ":", "meaning": ":", "type": "tanda baca", "irab": "-" },
+        { "word": "أَنَّ", "meaning": "bahwa", "type": "huruf", "irab": "Harf Nashab" },
+        { "word": "أُمَّكَ", "meaning": "ibumu", "type": "isim & dhomir", "irab": "Isim Anna" },
+        { 
+          "word": "تَعِبَتْ", 
+          "meaning": "telah merasa lelah / susah payah", 
+          "type": "fi'il", 
+          "irab": "Fi'il Madhi",
+          "morphology": {
+            "root": "ت ع ب",
+            "pattern": "فَعِلَ - يَفْعَلُ",
+            "forms": {
+              "madhi": { "ar": "تَعِبَ", "id": "Telah lelah" },
+              "mudhari": { "ar": "يَتْعَبُ", "id": "Sedang lelah" },
+              "mashdar": { "ar": "تَعَبًا", "id": "Kelelahan" }
+            }
+          }
+        },
+        { "word": "كَثِيْرًا", "meaning": "sangat / banyak", "type": "isim", "irab": "Na'at / Maf'ul Muthlaq" },
+        { "word": "مِنْ", "meaning": "dari", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "أَجْلِكَ", "meaning": "dikarenakanmu / alasanmu", "type": "isim & dhomir", "irab": "Majrur" },
+        { "word": ":", "meaning": ":", "type": "tanda baca", "irab": "-" },
+        { 
+          "word": "حَمَلَتْكَ", 
+          "meaning": "dia telah mengandungmu / membawamu", 
+          "type": "fi'il & dhomir", 
+          "irab": "Fi'il Madhi & Maf'ul Bih",
+          "morphology": {
+            "root": "ح م ل",
+            "pattern": "فَعَلَ - يَفْعِلُ",
+            "forms": {
+              "madhi": { "ar": "حَمَلَ", "id": "Telah membawa / mengandung" },
+              "mudhari": { "ar": "يَحْمِلُ", "id": "Sedang membawa / mengandung" },
+              "mashdar": { "ar": "حَمْلًا", "id": "Kandungan / Beban" }
+            }
+          }
+        },
+        { "word": "فِي", "meaning": "di dalam", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "بَطْنِهَا", "meaning": "perutnya", "type": "isim & dhomir", "irab": "Majrur" },
+        { "word": "تِسْعَةَ", "meaning": "sembilan", "type": "isim", "irab": "Zhorof Zaman" },
+        { "word": "أَشْهُرٍ", "meaning": "bulan-bulan", "type": "isim", "irab": "Tamyiz / Mudhaf Ilayh" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "ثُمَّ", "meaning": "kemudian", "type": "huruf", "irab": "Harf Athaf" },
+        { 
+          "word": "أَرْضَعَتْكَ", 
+          "meaning": "dia menyusuimu", 
+          "type": "fi'il & dhomir", 
+          "irab": "Fi'il Madhi & Maf'ul Bih",
+          "morphology": {
+            "root": "ر ض ع",
+            "pattern": "أَفْعَلَ - يُفْعِلُ",
+            "forms": {
+              "madhi": { "ar": "أَرْضَعَ", "id": "Telah menyusui" },
+              "mudhari": { "ar": "يُرْضِعُ", "id": "Sedang menyusui" },
+              "mashdar": { "ar": "إِرْضَاعًا", "id": "Penyusuan" }
+            }
+          }
+        },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { 
+          "word": "وَرَبَّتْكَ", 
+          "meaning": "dan dia mendidikmu / mengasuhmu", 
+          "type": "fi'il & dhomir", 
+          "irab": "Fi'il Madhi & Maf'ul Bih",
+          "morphology": {
+            "root": "ر ب ي",
+            "pattern": "فَعَّلَ - يُفَعِّلُ",
+            "forms": {
+              "madhi": { "ar": "رَبَّى", "id": "Telah mendidik" },
+              "mudhari": { "ar": "يُرَبِّي", "id": "Sedang mendidik" },
+              "mashdar": { "ar": "تَرْبِيَةً", "id": "Pendidikan" }
+            }
+          }
+        },
+        { "word": "تَرْبِيَةً", "meaning": "pendidikan", "type": "isim", "irab": "Maf'ul Muthlaq" },
+        { "word": "حَسَنَةً", "meaning": "yang baik", "type": "isim", "irab": "Na'at" },
+        { "word": "إِلَى", "meaning": "hingga / sampai", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "أَنْ", "meaning": "bahwa", "type": "huruf", "irab": "Harf Nashab" },
+        { 
+          "word": "كَبِرْتَ", 
+          "meaning": "kamu tumbuh besar", 
+          "type": "fi'il", 
+          "irab": "Fi'il Madhi",
+          "morphology": {
+            "root": "ك ب ر",
+            "pattern": "فَعِلَ - يَفْعَلُ",
+            "forms": {
+              "madhi": { "ar": "كَبِرَ", "id": "Telah tumbuh besar" },
+              "mudhari": { "ar": "يَكْبَرُ", "id": "Sedang tumbuh besar" },
+              "mashdar": { "ar": "كِبَرًا", "id": "Kebesaran / Tua" }
+            }
+          }
+        },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { 
+          "word": "وَنَظَّفَتْ", 
+          "meaning": "dan dia membersihkan", 
+          "type": "fi'il", 
+          "irab": "Fi'il Madhi",
+          "morphology": {
+            "root": "ن ظ ف",
+            "pattern": "فَعَّلَ - يُفَعِّلُ",
+            "forms": {
+              "madhi": { "ar": "نَظَّفَ", "id": "Telah membersihkan" },
+              "mudhari": { "ar": "يُنَظِّفُ", "id": "Sedang membersihkan" },
+              "mashdar": { "ar": "تَنْظِيْفًا", "id": "Pembersihan" }
+            }
+          }
+        },
+        { "word": "جِسْمَكَ", "meaning": "tubuhmu", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+        { "word": "وَثِيَابَكَ", "meaning": "dan pakaianmu", "type": "huruf, isim & dhomir", "irab": "Ma'thuf" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { 
+          "word": "وَهَيَّأَتْ", 
+          "meaning": "dan dia menyiapkan", 
+          "type": "fi'il", 
+          "irab": "Fi'il Madhi",
+          "morphology": {
+            "root": "ه ي أ",
+            "pattern": "فَعَّلَ - يُفَعِّلُ",
+            "forms": {
+              "madhi": { "ar": "هَيَّأَ", "id": "Telah menyiapkan" },
+              "mudhari": { "ar": "يُهَيِّئُ", "id": "Sedang menyiapkan" },
+              "mashdar": { "ar": "تَهْيِئَةً", "id": "Penyiapan" }
+            }
+          }
+        },
+        { "word": "فِرَاشَكَ", "meaning": "tempat tidurmu", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+        { "word": "وَطَعَامَكَ", "meaning": "dan makananmu", "type": "huruf, isim & dhomir", "irab": "Ma'thuf" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { 
+          "word": "وَحَرَسَتْكَ", 
+          "meaning": "dan dia menjagamu", 
+          "type": "fi'il & dhomir", 
+          "irab": "Fi'il Madhi & Maf'ul Bih",
+          "morphology": {
+            "root": "ح ر س",
+            "pattern": "فَعَلَ - يَفْعُلُ",
+            "forms": {
+              "madhi": { "ar": "حَرَسَ", "id": "Telah menjaga" },
+              "mudhari": { "ar": "يَحْرُسُ", "id": "Sedang menjaga" },
+              "mashdar": { "ar": "حِرَاسَةً", "id": "Penjagaan" }
+            }
+          }
+        },
+        { "word": "مِنْ", "meaning": "dari", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "كُلِّ", "meaning": "setiap", "type": "isim", "irab": "Majrur" },
+        { "word": "أَذًى", "meaning": "gangguan / bahaya", "type": "isim", "irab": "Mudhaf Ilayh" },
+        { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+      ],
+      "translation": "1- Ketahuilah wahai anakku sayang: bahwa senyatanya ibumu telah bersusah payah (lelah) demi dirimu: ia telah mengandungmu di dalam perutnya selama sembilan bulan, kemudian menyusuimu, serta mengasuhmu dengan pendidikan yang baik sampai kamu tumbuh besar. Ia pun membersihkan tubuh serta pakaianmu, menyiapkan tempat tidur dan makananmu, serta menjagamu dari setiap bahaya."
+    }
+  ]
+}

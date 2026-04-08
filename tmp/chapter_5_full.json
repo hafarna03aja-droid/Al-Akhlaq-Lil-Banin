@@ -1,0 +1,122 @@
+{
+  "id": 6,
+  "titleTrans": "5. Allah Subhanahu wa Ta'ala",
+  "titleAr": "اَللهُ سُبْحَانَهُ وَتَعَالَى",
+  "refPage": 6,
+  "paragraphs": [
+    {
+      "arabic": [
+        { "word": "١-", "meaning": "1-", "type": "nomor", "irab": "-" },
+        { "word": "أَيُّهَا", "meaning": "Wahai", "type": "huruf", "irab": "Harf Nida'" },
+        { "word": "الْوَلَدُ", "meaning": "anak", "type": "isim", "irab": "Munada" },
+        { "word": "الْعَزِيْزُ", "meaning": "yang mulia / tersayang", "type": "isim", "irab": "Na'at" },
+        { "word": ":", "meaning": ":", "type": "tanda baca", "irab": "-" },
+        { "word": "اَللهُ", "meaning": "Allah", "type": "isim", "irab": "Mubtada'" },
+        { "word": "سُبْحَانَهُ", "meaning": "Maha Suci Dia", "type": "isim", "irab": "Maf'ul Muthlaq" },
+        { "word": "وَتَعَالَى", "meaning": "dan Maha Tinggi", "type": "huruf & fi'il", "irab": "Harf Athaf & Ma'thuf" },
+        { "word": "هُوَ", "meaning": "Dia-lah", "type": "isim", "irab": "Dhomir / Mubtada' Thani" },
+        { "word": "الَّذِي", "meaning": "yang", "type": "isim", "irab": "Isim Mawshul / Khobar" },
+        { "word": "خَلَقَكَ", "meaning": "menciptakanmu", "type": "fi'il & dhomir", "irab": "Sillah Mawshul" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَحَسَّنَ", "meaning": "dan membaguskan", "type": "huruf & fi'il", "irab": "Harf Athaf & Fi'il Madhi" },
+        { "word": "صُوْرَتَكَ", "meaning": "rupamu", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+        { "word": ":", "meaning": ":", "type": "tanda baca", "irab": "-" },
+        { "word": "بِأَنْ", "meaning": "dengan bahwa", "type": "huruf", "irab": "Jar & Nashab" },
+        { "word": "أَعْطَاكَ", "meaning": "Dia memberimu", "type": "fi'il & dhomir", "irab": "Fi'il Madhi" },
+        { "word": "عَيْنَيْنِ", "meaning": "dua mata", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "تَنْظُرُ", "meaning": "engkau melihat", "type": "fi'il", "irab": "Fi'il Mudhari' Marfu'" },
+        { "word": "بِهِمَا", "meaning": "dengan keduanya", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "الْأَشْيَاءَ", "meaning": "segala sesuatu", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَأُذُنَيْنِ", "meaning": "dan dua telinga", "type": "isim", "irab": "Ma'thuf" },
+        { "word": "تَسْمَعُ", "meaning": "engkau mendengar", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+        { "word": "بِهِمَا", "meaning": "dengan keduanya", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "الْأَصْوَاتَ", "meaning": "suara-suara", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَلِسَانًا", "meaning": "dan lidah", "type": "isim", "irab": "Ma'thuf" },
+        { "word": "تَتَكَلَّمُ", "meaning": "engkau berbicara", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+        { "word": "بِهِ", "meaning": "dengannya", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَيَدَيْنِ", "meaning": "dan dua tangan", "type": "isim", "irab": "Ma'thuf" },
+        { "word": "تَسْتَعْمِلُهُمَا", "meaning": "engkau menggunakan keduanya", "type": "fi'il & dhomir", "irab": "Fi'il Mudhari'" },
+        { "word": "فِي", "meaning": "dalam", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "أَشْغَالِكَ", "meaning": "pekerjaan-pekerjaanmu", "type": "isim & dhomir", "irab": "Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَرِجْلَيْنِ", "meaning": "dan dua kaki", "type": "isim", "irab": "Ma'thuf" },
+        { "word": "تَمْشِي", "meaning": "engkau berjalan", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+        { "word": "عَلَيْهِمَا", "meaning": "di atas keduanya", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَعَقْلًا", "meaning": "dan akal", "type": "isim", "irab": "Ma'thuf" },
+        { "word": "تَعْرِفُ", "meaning": "engkau mengetahui", "type": "fi'il", "irab": "Fi'il Mudhari'" },
+        { "word": "بِهِ", "meaning": "dengannya", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "الْخَيْرَ", "meaning": "kebaikan", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "مِنَ", "meaning": "dari", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "الشَّرِّ", "meaning": "keburukan", "type": "isim", "irab": "Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَأَنْعَمَ", "meaning": "dan Dia memberi nikmat", "type": "huruf & fi'il", "irab": "Fi'il Madhi" },
+        { "word": "عَلَيْكَ", "meaning": "atasmu", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "بِالصِّحَّةِ", "meaning": "dengan kesehatan", "type": "huruf & isim", "irab": "Jar & Majrur" },
+        { "word": "وَالْعَافِيَةِ", "meaning": "dan keselamatan", "type": "huruf & isim", "irab": "Ma'thuf" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَوَضَعَ", "meaning": "dan Dia meletakkan", "type": "huruf & fi'il", "irab": "Fi'il Madhi" },
+        { "word": "الرَّحْمَةَ", "meaning": "kasih sayang", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "فِي", "meaning": "di dalam", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "قُلُوْبِ", "meaning": "hati", "type": "isim", "irab": "Majrur" },
+        { "word": "وَالِدَيْكَ", "meaning": "kedua orang tuamu", "type": "isim & dhomir", "irab": "Mudhaf Ilayh" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "حَتَّى", "meaning": "sehingga / sampai", "type": "huruf", "irab": "Harf Ghoyah" },
+        { "word": "رَبَّيَاكَ", "meaning": "keduanya mendidikmu", "type": "fi'il & dhomir", "irab": "Fi'il Madhi" },
+        { "word": "تَرْبِيَةً", "meaning": "pendidikan", "type": "isim", "irab": "Maf'ul Muthlaq" },
+        { "word": "حَسَنَةً", "meaning": "yang baik", "type": "isim", "irab": "Na'at" },
+        { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+      ],
+      "translation": "1- Wahai anakku yang tersayang; Allah Subhanahu wa Ta'ala adalah Dzat yang telah menciptakanmu dan membaguskan rupamu: dengan memberimu dua mata untuk melihat segala sesuatu, dua telinga untuk mendengar suara-suara, lidah untuk berbicara, dua tangan untuk membantumu bekerja, dua kaki untuk berjalan, serta akal untuk membedakan kebaikan dari keburukan. Dia juga menganugerahkan kesehatan dan keselamatan bagimu, serta menanamkan kasih sayang di hati kedua orang tuamu sehingga mereka mendidikmu dengan sebaik-baik pendidikan."
+    },
+    {
+      "arabic": [
+        { "word": "٢-", "meaning": "2-", "type": "nomor", "irab": "-" },
+        { "word": "فَيَجِبُ", "meaning": "Maka wajib", "type": "huruf & fi'il", "irab": "Fi'il Mudhari' Marfu'" },
+        { "word": "عَلَيْكَ", "meaning": "atasmu", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "أَنْ", "meaning": "bahwa", "type": "huruf", "irab": "Harf Nashab" },
+        { 
+          "word": "تُعَظِّمَ", 
+          "meaning": "engkau mengagungkan", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Manshub",
+          "morphology": {
+            "root": "ع ظ م",
+            "pattern": "فَعَّلَ - يُفَعِّلُ",
+            "forms": {
+              "madhi": { "ar": "عَظَّمَ", "id": "Telah mengagungkan" },
+              "mudhari": { "ar": "يُعَظِّمُ", "id": "Sedang mengagungkan" },
+              "mashdar": { "ar": "تَعْظِيْمًا", "id": "Pengagungan" }
+            }
+          }
+        },
+        { "word": "رَبَّكَ", "meaning": "Tuhanmu", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+        { "word": "وَتُحِبَّهُ", "meaning": "dan engkau mencintai-Nya", "type": "huruf & fi'il", "irab": "Ma'thuf" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { 
+          "word": "وَتَشْكُرَهُ", 
+          "meaning": "dan engkau bersyukur kepada-Nya", 
+          "type": "huruf & fi'il", 
+          "irab": "Ma'thuf",
+          "morphology": {
+            "root": "ش ك ر",
+            "pattern": "فَعَلَ - يَفْعُلُ",
+            "forms": {
+              "madhi": { "ar": "شَكَرَ", "id": "Telah bersyukur" },
+              "mudhari": { "ar": "يَشْكُرُ", "id": "Sedang bersyukur" },
+              "mashdar": { "ar": "شُكْرًا", "id": "Syukur" }
+            }
+          }
+        },
+        { "word": "عَلَى", "meaning": "atas", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "جَمِيْعِ", "meaning": "seluruh", "type": "isim", "irab": "Majrur" },
+        { "word": "نِعَمِهِ", "meaning": "nikmat-nikmat-Nya", "type": "isim & dhomir", "irab": "Mudhaf Ilayh" },
+        { "word": ":", "meaning": ":", "type": "tanda baca", "irab": "-" }
+      ],
+      "translation": "2- Maka wajib bagimu untuk mengagungkan Tuhanmu, mencintai-Nya, dan senantiasa bersyukur kepada-Nya atas segala nikmat-Nya."
+    }
+  ]
+}

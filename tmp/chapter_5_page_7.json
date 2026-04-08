@@ -1,0 +1,127 @@
+[
+  {
+    "arabic": [
+      { "word": "بِأَنْ", "meaning": "dengan bahwa / dengan cara", "type": "huruf", "irab": "Jar & Nashab" },
+      { 
+        "word": "تَمْتَثِلَ", 
+        "meaning": "engkau menaati / mematuhi", 
+        "type": "fi'il", 
+        "irab": "Fi'il Mudhari' Manshub",
+        "morphology": {
+          "root": "م ث ل",
+          "pattern": "اِفْتَعَلَ - يَفْتَعِلُ",
+          "forms": {
+            "madhi": { "ar": "اِمْتَثَلَ", "id": "Telah mematuhi" },
+            "mudhari": { "ar": "يَمْتَثِلُ", "id": "Sedang mematuhi" },
+            "mashdar": { "ar": "اِمْتِثَالًا", "id": "Kepatuhan" }
+          }
+        }
+      },
+      { "word": "أَوَامِرَهُ", "meaning": "perintah-perintah-Nya", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+      { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+      { 
+        "word": "وَتَجْتَنِبَ", 
+        "meaning": "dan engkau menjauhi", 
+        "type": "huruf & fi'il", 
+        "irab": "Ma'thuf",
+        "morphology": {
+          "root": "ج ن ب",
+          "pattern": "اِفْتَعَلَ - يَفْتَعِلُ",
+          "forms": {
+            "madhi": { "ar": "اِجْتَنَبَ", "id": "Telah menjauhi" },
+            "mudhari": { "ar": "يَجْتَنِبُ", "id": "Sedang menjauhi" },
+            "mashdar": { "ar": "اِجْتِنَابًا", "id": "Penjauhan" }
+          }
+        }
+      },
+      { "word": "نَوَاهِيَهُ", "meaning": "larangan-larangan-Nya", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+      { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+      { "word": "وَأَنْ", "meaning": "dan bahwa", "type": "huruf", "irab": "Harf Nashab" },
+      { "word": "تُعَظِّمَ", "meaning": "engkau mengagungkan", "type": "fi'il", "irab": "Fi'il Mudhari' Manshub" },
+      { "word": "أَيْضًا", "meaning": "juga", "type": "isim", "irab": "Maf'ul Muthlaq" },
+      { "word": "جَمِيْعَ", "meaning": "seluruh", "type": "isim", "irab": "Maf'ul Bih" },
+      { "word": "مَلَائِكَتِهِ", "meaning": "malaikat-malaikat-Nya", "type": "isim & dhomir", "irab": "Mudhaf Ilayh" },
+      { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+      { "word": "وَرُسُلِهِ", "meaning": "dan rasul-rasul-Nya", "type": "isim & dhomir", "irab": "Ma'thuf" },
+      { "word": "وَأَنْبِيَائِهِ", "meaning": "dan nabi-nabi-Nya", "type": "isim & dhomir", "irab": "Ma'thuf" },
+      { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+      { "word": "وَالصَّالِحِيْنَ", "meaning": "dan orang-orang saleh", "type": "isim", "irab": "Ma'thuf" },
+      { "word": "مِنْ", "meaning": "dari", "type": "huruf", "irab": "Harf Jar" },
+      { "word": "عِبَادِهِ", "meaning": "hamba-hamba-Nya", "type": "isim & dhomir", "irab": "Majrur" },
+      { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+      { "word": "وَتُحِبَّهُمْ", "meaning": "dan engkau mencintai mereka", "type": "huruf & fi'il & dhomir", "irab": "Ma'thuf" },
+      { "word": "لِأَنَّهُ", "meaning": "karena sesungguhnya Dia", "type": "huruf & dhomir", "irab": "Isim Anna" },
+      { "word": "تَعَالَى", "meaning": "Maha Tinggi", "type": "fi'il", "irab": "Fi'il Madhi" },
+      { "word": "يُحِبُّهُمْ", "meaning": "mencintai mereka", "type": "fi'il & dhomir", "irab": "Khobar (Fi'il Mudhari')" },
+      { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+    ],
+    "translation": "(Lanjutan 2-) Yaitu dengan cara mematuhi segala perintah-Nya, menjauhi segala larangan-Nya, serta mengagungkan seluruh malaikat-Nya, rasul-rasul-Nya, nabi-nabi-Nya, serta hamba-hamba-Nya yang saleh; dan engkau pun harus mencintai mereka semua karena Allah pun mencintai mereka."
+  },
+  {
+    "arabic": [
+      { "word": "٣-", "meaning": "3-", "type": "nomor", "irab": "-" },
+      { "word": "إِذَا", "meaning": "Apabila", "type": "isim (syarat)", "irab": "Zhorof Zaman" },
+      { "word": "أَحْبَبْتَ", "meaning": "engkau mencintai", "type": "fi'il & dhomir", "irab": "Fi'il Madhi" },
+      { "word": "رَبَّكَ", "meaning": "Tuhanmu", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+      { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+      { "word": "وَامْتَثَلْتَ", "meaning": "dan engkau mematuhi", "type": "huruf & fi'il", "irab": "Fi'il Madhi" },
+      { "word": "أَوَامِرَهُ", "meaning": "perintah-perintah-Nya", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+      { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+      { "word": "وَاجْتَنِبْتَ", "meaning": "dan engkau menjauhi", "type": "huruf & fi'il", "irab": "Fi'il Madhi" },
+      { "word": "نَوَاهِيَهُ", "meaning": "larangan-larangan-Nya", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+      { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+      { 
+        "word": "زَادَكَ", 
+        "meaning": "Dia menambahmu", 
+        "type": "fi'il & dhomir", 
+        "irab": "Jawab Syarat (Fi'il Madhi)",
+        "morphology": {
+          "root": "ز ي د",
+          "pattern": "فَعَلَ - يَفْعِيْلُ (يَزِيْدُ)",
+          "forms": {
+            "madhi": { "ar": "زَادَ", "id": "Telah menambah" },
+            "mudhari": { "ar": "يَزِيْدُ", "id": "Sedang menambah" },
+            "mashdar": { "ar": "زِيَادَةً", "id": "Penambahan" }
+          }
+        }
+      },
+      { "word": "مِنْ", "meaning": "dari / akan", "type": "huruf", "irab": "Harf Jar" },
+      { "word": "نَعَمِهِ", "meaning": "nikmat-nikmat-Nya", "type": "isim & dhomir", "irab": "Majrur" },
+      { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+      { "word": "وَجَعَلَكَ", "meaning": "dan Dia menjadikanmu", "type": "huruf & fi'il & dhomir", "irab": "Fi'il Madhi" },
+      { "word": "مَحْبُوْبًا", "meaning": "orang yang dicintai", "type": "isim", "irab": "Maf'ul Bih Thani" },
+      { "word": "بَيْنَ", "meaning": "di antara", "type": "isim", "irab": "Zhorof Makan" },
+      { "word": "النَّاسِ", "meaning": "manusia", "type": "isim", "irab": "Mudhaf Ilayh" },
+      { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+      { 
+        "word": "وَحَفِظَكَ", 
+        "meaning": "dan Dia menjagamu", 
+        "type": "huruf & fi'il & dhomir", 
+        "irab": "Fi'il Madhi",
+        "morphology": {
+          "root": "ح ف ظ",
+          "pattern": "فَعِلَ - يَفْعَلُ",
+          "forms": {
+            "madhi": { "ar": "حَفِظَ", "id": "Telah menjaga" },
+            "mudhari": { "ar": "يَحْفَظُ", "id": "Sedang menjaga" },
+            "mashdar": { "ar": "حِفْظًا", "id": "Penjagaan" }
+          }
+        }
+      },
+      { "word": "مِنْ", "meaning": "dari", "type": "huruf", "irab": "Harf Jar" },
+      { "word": "كُلِّ", "meaning": "setiap", "type": "isim", "irab": "Majrur" },
+      { "word": "أَذًى", "meaning": "gangguan / bahaya", "type": "isim", "irab": "Mudhaf Ilayh" },
+      { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+      { "word": "وَأَعْطَاكَ", "meaning": "dan Dia memberimu", "type": "huruf & fi'il & dhomir", "irab": "Fi'il Madhi" },
+      { "word": "كُلَّ", "meaning": "setiap", "type": "isim", "irab": "Maf'ul Bih الأول" },
+      { "word": "مَا", "meaning": "apa yang", "type": "isim mawshul", "irab": "Mudhaf Ilayh" },
+      { "word": "تُرِيْدُ", "meaning": "engkau inginkan", "type": "fi'il", "irab": "Sillah Mawshul" },
+      { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+      { "word": "مِنَ", "meaning": "dari", "type": "huruf", "irab": "Harf Jar" },
+      { "word": "الرِّزْقِ", "meaning": "rezeki", "type": "isim", "irab": "Majrur" },
+      { "word": "وَغَيْرِهِ", "meaning": "dan selainnya", "type": "huruf & isim & dhomir", "irab": "Ma'thuf" },
+      { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+    ],
+    "translation": "3- Apabila engkau mencintai Tuhanmu, mematuhi perintah-Nya, dan menjauhi larangan-Nya, maka Dia akan menambah nikmat-Nya bagimu, menjadikanmu dicintai oleh sesama manusia, menjagamu dari setiap bahaya, serta memberimu segala yang engkau inginkan, baik berupa rezeki maupun hal lainnya."
+  }
+]

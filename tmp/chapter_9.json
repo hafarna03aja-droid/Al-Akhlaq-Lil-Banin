@@ -1,0 +1,313 @@
+{
+  "id": 10,
+  "titleTrans": "9. Adab di Dalam Rumah",
+  "titleAr": "آدَابُ الْمَنْزِلِ",
+  "refPage": 9,
+  "paragraphs": [
+    {
+      "arabic": [
+        { "word": "١-", "meaning": "1-", "type": "nomor", "irab": "-" },
+        { 
+          "word": "يَجِبُ", 
+          "meaning": "Wajib", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Marfu'",
+          "morphology": {
+            "root": "و ج ب",
+            "pattern": "فَعَلَ - يَفْعِلُ",
+            "forms": {
+              "madhi": { "ar": "وَجَبَ", "id": "Telah wajib" },
+              "mudhari": { "ar": "يَجِبُ", "id": "Sedang wajib" },
+              "mashdar": { "ar": "وُجُوْبًا", "id": "Kewajiban" }
+            }
+          }
+        },
+        { "word": "عَلَى", "meaning": "atas", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "الْوَلَدِ", "meaning": "seorang anak", "type": "isim", "irab": "Majrur" },
+        { "word": "أَنْ", "meaning": "bahwa", "type": "huruf", "irab": "Harf Nashab" },
+        { 
+          "word": "يُرَاعِيَ", 
+          "meaning": "menjaga / memperhatikan", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Manshub",
+          "morphology": {
+            "root": "ر ع ي",
+            "pattern": "فَاعَلَ - يُفَاعِلُ",
+            "forms": {
+              "madhi": { "ar": "رَاعَى", "id": "Telah menjaga" },
+              "mudhari": { "ar": "يُرَاعِي", "id": "Sedang menjaga" },
+              "mashdar": { "ar": "مُرَاعَاةً", "id": "Penjagaan / Perhatian" }
+            }
+          }
+        },
+        { "word": "الْأَدَبَ", "meaning": "adab / tata krama", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "فِي", "meaning": "di", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "مَنْزِلِهِ", "meaning": "rumahnya", "type": "isim & dhomir", "irab": "Majrur & Mudhaf Ilayh" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "بِأَنْ", "meaning": "dengan bahwa", "type": "huruf", "irab": "Harf Jar & Nashab" },
+        { 
+          "word": "يَحْتَرِمَ", 
+          "meaning": "menghormati", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Manshub",
+          "morphology": {
+            "root": "ح ر م",
+            "pattern": "اِفْتَعَلَ - يَفْتَعِلُ",
+            "forms": {
+              "madhi": { "ar": "اِحْتَرَمَ", "id": "Telah menghormati" },
+              "mudhari": { "ar": "يَحْتَرِمُ", "id": "Sedang menghormati" },
+              "mashdar": { "ar": "اِحْتِرَامًا", "id": "Penghormatan" }
+            }
+          }
+        },
+        { "word": "وَالِدَيْهِ", "meaning": "kedua orang tuanya", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَإِخْوَانَهُ", "meaning": "dan saudara laki-lakinya", "type": "huruf, isim & dhomir", "irab": "Ma'thuf & Mudhaf Ilayh" },
+        { "word": "وَأَخَوَاتِهِ", "meaning": "dan saudara perempuannya", "type": "huruf, isim & dhomir", "irab": "Ma'thuf & Mudhaf Ilayh" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَكُلَّ", "meaning": "dan setiap", "type": "huruf & isim", "irab": "Ma'thuf" },
+        { "word": "مَنْ", "meaning": "orang", "type": "isim mawshul", "irab": "Mudhaf Ilayh" },
+        { "word": "فِي", "meaning": "di dalam", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "الْمَنْزِلِ", "meaning": "rumah", "type": "isim", "irab": "Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Harf Athaf & Nafi" },
+        { 
+          "word": "يَعْمَلَ", 
+          "meaning": "melakukan / berbuat", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Manshub",
+          "morphology": {
+            "root": "ع م ل",
+            "pattern": "فَعِلَ - يَفْعَلُ",
+            "forms": {
+              "madhi": { "ar": "عَمِلَ", "id": "Telah melakukan" },
+              "mudhari": { "ar": "يَعْمَلُ", "id": "Sedang melakukan" },
+              "mashdar": { "ar": "عَمَلًا", "id": "Pekerjaan" }
+            }
+          }
+        },
+        { "word": "شَيْئًا", "meaning": "sesuatu", "type": "isim", "irab": "Maf'ul Bih" },
+        { 
+          "word": "يُغْضِبُ", 
+          "meaning": "membuat marah", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Marfu' (Shilah)",
+          "morphology": {
+            "root": "غ ض ب",
+            "pattern": "أَفْعَلَ - يُفْعِلُ",
+            "forms": {
+              "madhi": { "ar": "أَغْضَبَ", "id": "Telah membuat marah" },
+              "mudhari": { "ar": "يُغْضِبُ", "id": "Sedang membuat marah" },
+              "mashdar": { "ar": "إِغْضَابًا", "id": "Kemarahan" }
+            }
+          }
+        },
+        { "word": "أَحَدًا", "meaning": "seorang pun", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "مِنْهُمْ", "meaning": "dari mereka", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Harf Athaf & Nafi" },
+        { 
+          "word": "يُعَانِدَ", 
+          "meaning": "dia membangkang / keras kepala", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Manshub",
+          "morphology": {
+            "root": "ع ن د",
+            "pattern": "فَاعَلَ - يُفَاعِلُ",
+            "forms": {
+              "madhi": { "ar": "عَانَدَ", "id": "Telah membangkang" },
+              "mudhari": { "ar": "يُعَانِدُ", "id": "Sedang membangkang" },
+              "mashdar": { "ar": "مُعَانَدَةً", "id": "Pembangkangan" }
+            }
+          }
+        },
+        { "word": "أَخَاهُ", "meaning": "saudaranya", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+        { "word": "الْكَبِيْرَ", "meaning": "yang besar (tua)", "type": "isim", "irab": "Na'at" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Harf Athaf & Nafi" },
+        { 
+          "word": "يُخَاصِمَ", 
+          "meaning": "dia bertengkar", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Manshub",
+          "morphology": {
+            "root": "خ ص م",
+            "pattern": "فَاعَلَ - يُفَاعِلُ",
+            "forms": {
+              "madhi": { "ar": "خَاصَمَ", "id": "Telah bertengkar" },
+              "mudhari": { "ar": "يُخَاصِمُ", "id": "Sedang bertengkar" },
+              "mashdar": { "ar": "مُخَاصَمَةً", "id": "Pertengkaran" }
+            }
+          }
+        },
+        { "word": "أَخَاهُ", "meaning": "saudaranya", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+        { "word": "الصَّغِيْرَ", "meaning": "yang kecil (muda)", "type": "isim", "irab": "Na'at" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Harf Athaf & Nafi" },
+        { 
+          "word": "يُؤْذِيَ", 
+          "meaning": "dia menyakit / mengganggu", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Manshub",
+          "morphology": {
+            "root": "أ ذ ي",
+            "pattern": "أَفْعَلَ - يُفْعِلُ",
+            "forms": {
+              "madhi": { "ar": "آذَى", "id": "Telah menyakiti" },
+              "mudhari": { "ar": "يُؤْذِي", "id": "Sedang menyakiti" },
+              "mashdar": { "ar": "إِيْذَاءً", "id": "Gangguan / Penyakitan" }
+            }
+          }
+        },
+        { "word": "الْخَادِمَ", "meaning": "pembantu", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَإِذَا", "meaning": "dan apabila", "type": "isim", "irab": "Zhorof Zaman" },
+        { "word": "لَعِبَ", "meaning": "ia bermain", "type": "fi'il", "irab": "Fi'il Madhi" },
+        { "word": "لَعِبَ", "meaning": "ia bermain", "type": "fi'il", "irab": "Fi'il Madhi (Jawab Syarat)" },
+        { "word": "بِنِظَامٍ", "meaning": "dengan teratur / sistematis", "type": "huruf & isim", "irab": "Jar & Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "بِغَيْرِ", "meaning": "dengan tanpa", "type": "huruf & isim", "irab": "Jar & Majrur" },
+        { "word": "صِيَاحٍ", "meaning": "teriakan", "type": "isim", "irab": "Mudhaf Ilayh" },
+        { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Harf Athaf & Nafi" },
+        { "word": "حَرَكَةٍ", "meaning": "gerakan", "type": "isim", "irab": "Ma'thuf" },
+        { "word": "لَا", "meaning": "tidak", "type": "huruf", "irab": "Harf Nafi" },
+        { 
+          "word": "تَلِيْقُ", 
+          "meaning": "pantas / layak", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Marfu' (Na'at)",
+          "morphology": {
+            "root": "ل ي ق",
+            "pattern": "فَعَلَ - يَفْعِلُ",
+            "forms": {
+              "madhi": { "ar": "لَاقَ", "id": "Telah pantas" },
+              "mudhari": { "ar": "يَلِيْقُ", "id": "Sedang pantas" },
+              "mashdar": { "ar": "لِيَاقَةً", "id": "Kepantasan" }
+            }
+          }
+        },
+        { "word": "بِهِ", "meaning": "dengannya", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "لَا سِيَّمَا", "meaning": "terutama", "type": "huruf", "irab": "-" },
+        { "word": "إِذَا", "meaning": "apabila", "type": "isim", "irab": "Zhorof Zaman" },
+        { "word": "كَانَ", "meaning": "adalah / ada", "type": "fi'il", "irab": "Fi'il Madhi Naqish" },
+        { "word": "أَحَدٌ", "meaning": "seseorang", "type": "isim", "irab": "Isim Kana" },
+        { "word": "فِي", "meaning": "di dalam", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "الْبَيْتِ", "meaning": "rumah", "type": "isim", "irab": "Majrur" },
+        { "word": "نَائِمًا", "meaning": "sedang tidur", "type": "isim", "irab": "Khobar Kana" },
+        { "word": "أَوْ", "meaning": "atau", "type": "huruf", "irab": "Harf Athaf" },
+        { "word": "مَرِيْضًا", "meaning": "sedang sakit", "type": "isim", "irab": "Ma'thuf" },
+        { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+      ],
+      "translation": "1- Wajib bagi seorang anak untuk menjaga adab di rumahnya, dengan menghormati kedua orang tuanya, saudara laki-laki dan perempuannya, serta siapa pun yang ada di rumah, dan tidak melakukan hal-hal yang membuat salah satu dari mereka marah, tidak membangkang kepada kakaknya, tidak bertengkar dengan adiknya, dan tidak menyakiti pembantu. Serta apabila ia bermain, maka ia bermain dengan teratur, tanpa teriakan dan gerakan yang tidak pantas, terutama jika ada seseorang di dalam rumah yang sedang tidur atau sakit."
+    },
+    {
+      "arabic": [
+        { "word": "٢-", "meaning": "2-", "type": "nomor", "irab": "-" },
+        { "word": "وَأَنْ", "meaning": "dan bahwa", "type": "huruf", "irab": "Harf Nashab" },
+        { 
+          "word": "يُحَافِظَ", 
+          "meaning": "dia menjaga / memelihara", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Manshub",
+          "morphology": {
+            "root": "ح ف ظ",
+            "pattern": "فَاعَلَ - يُفَاعِلُ",
+            "forms": {
+              "madhi": { "ar": "حَافَظَ", "id": "Telah menjaga" },
+              "mudhari": { "ar": "يُحَافِظُ", "id": "Sedang menjaga" },
+              "mashdar": { "ar": "مُحَافَظَةً", "id": "Penjagaan / Pemeliharaan" }
+            }
+          }
+        },
+        { "word": "عَلَى", "meaning": "atas / terhadap", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "أَدَاوَاتِ", "meaning": "peralatan-peralatan", "type": "isim", "irab": "Majrur" },
+        { "word": "الْمَنْزِلِ", "meaning": "rumah", "type": "isim", "irab": "Mudhaf Ilayh" },
+        { "word": ":", "meaning": ":", "type": "tanda baca", "irab": "-" },
+        { "word": "فَلَا", "meaning": "maka tidak", "type": "huruf", "irab": "Harf Nafi" },
+        { 
+          "word": "يَكْسِرُ", 
+          "meaning": "memecahkan", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Marfu'",
+          "morphology": {
+            "root": "ك س ر",
+            "pattern": "فَعَلَ - يَفْعِلُ",
+            "forms": {
+              "madhi": { "ar": "كَسَرَ", "id": "Telah memecahkan" },
+              "mudhari": { "ar": "يَكْسِرُ", "id": "Sedang memecahkan" },
+              "mashdar": { "ar": "كَسْرًا", "id": "Pemecahan / Pecahan" }
+            }
+          }
+        },
+        { "word": "الْأَوَانِيَ", "meaning": "piring / gelas / wadah-wadah", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Harf Nafi" },
+        { 
+          "word": "يُغَيِّرُ", 
+          "meaning": "merubah / merusak", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Marfu'",
+          "morphology": {
+            "root": "غ ي ر",
+            "pattern": "فَعَّلَ - يُفَعِّلُ",
+            "forms": {
+              "madhi": { "ar": "غَيَّرَ", "id": "Telah merubah" },
+              "mudhari": { "ar": "يُغَيِّرُ", "id": "Sedang merubah" },
+              "mashdar": { "ar": "تَغْيِيْرًا", "id": "Perubahan" }
+            }
+          }
+        },
+        { "word": "الْأَبْوَابَ", "meaning": "pintu-pintu", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Harf Nafi" },
+        { 
+          "word": "يُفْسِدُ", 
+          "meaning": "merusak / mematikan", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Marfu'",
+          "morphology": {
+            "root": "ف س د",
+            "pattern": "أَفْعَلَ - يُفْعِلُ",
+            "forms": {
+              "madhi": { "ar": "أَفْسَدَ", "id": "Telah merusak" },
+              "mudhari": { "ar": "يُفْسِدُ", "id": "Sedang merusak" },
+              "mashdar": { "ar": "إِفْسَادًا", "id": "Kerusakan" }
+            }
+          }
+        },
+        { "word": "الْأَشْجَارَ", "meaning": "pohon-pohon / tanaman", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَإِذَا", "meaning": "dan apabila", "type": "isim", "irab": "Zhorof Zaman" },
+        { "word": "كَانَ", "meaning": "ada", "type": "fi'il", "irab": "Fi'il Madhi" },
+        { "word": "عِنْدَهُ", "meaning": "di sisinya (memiliki)", "type": "isim & dhomir", "irab": "Zhorof & Mudhaf Ilayh" },
+        { "word": "هِرٌّ", "meaning": "seekor kucing", "type": "isim", "irab": "Fa'il" },
+        { "word": "أَوْ", "meaning": "atau", "type": "huruf", "irab": "Harf Athaf" },
+        { "word": "دَجَاجٌ", "meaning": "ayam", "type": "isim", "irab": "Ma'thuf" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { 
+          "word": "يُقَدِّمُ", 
+          "meaning": "ia menyuguhkan / memberikan", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Marfu'",
+          "morphology": {
+            "root": "ق د م",
+            "pattern": "فَعَّلَ - يُفَعِّلُ",
+            "forms": {
+              "madhi": { "ar": "قَدَّمَ", "id": "Telah menyuguhkan" },
+              "mudhari": { "ar": "يُقَدِّمُ", "id": "Sedang menyuguhkan" },
+              "mashdar": { "ar": "تَقْدِيْمًا", "id": "Pemberian / Penyuguhan" }
+            }
+          }
+        },
+        { "word": "لَهُ", "meaning": "kepadanya", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "الطَّعَامَ", "meaning": "makanan", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "وَالشَّرَابَ", "meaning": "dan minuman", "type": "huruf & isim", "irab": "Ma'thuf" },
+        { "word": "وَلَا", "meaning": "dan tidak", "type": "huruf", "irab": "Harf Nafi" },
+        { "word": "يُؤْذِيْهِ", "meaning": "dia menyakitinya", "type": "fi'il & dhomir", "irab": "Mudhari' & Maf'ul Bih" },
+        { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+      ],
+      "translation": "2- Dan wajib baginya menjaga peralatan rumah: tidak memecahkan piring/gelas, tidak merusak pintu, tidak merusak tanaman, dan apabila ia memiliki kucing atau ayam, ia memberikan makan dan minum kepadanya tanpa menyakitinya."
+    }
+  ]
+}

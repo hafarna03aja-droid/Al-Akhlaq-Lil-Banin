@@ -1,0 +1,152 @@
+{
+  "id": 13,
+  "titleTrans": "12. Adab Anak kepada Ibunya",
+  "titleAr": "آدَابُ الْوَلَدِ مَعَ اُمِّهِ",
+  "refPage": 11,
+  "paragraphs": [
+    {
+      "arabic": [
+        { "word": "أَيُّهَا", "meaning": "Wahai", "type": "huruf", "irab": "Harf Nida'" },
+        { "word": "الْوَلَدُ", "meaning": "anak", "type": "isim", "irab": "Munada" },
+        { "word": "الْأَدِيبُ", "meaning": "yang beradab", "type": "isim", "irab": "Na'at" },
+        { "word": "!", "meaning": "!", "type": "tanda baca", "irab": "-" },
+        { "word": "إِذَا", "meaning": "apabila", "type": "isim", "irab": "Zhorof Zaman" },
+        { 
+          "word": "عَرَفْتَ", 
+          "meaning": "kamu telah mengetahui", 
+          "type": "fi'il", 
+          "irab": "Fi'il Madhi",
+          "morphology": {
+            "root": "ع ر ف",
+            "pattern": "فَعَلَ - يَفْعِلُ",
+            "forms": {
+              "madhi": { "ar": "عَرَفَ", "id": "Telah mengetahui / mengenal" },
+              "mudhari": { "ar": "يَعْرِفُ", "id": "Sedang mengetahui" },
+              "mashdar": { "ar": "مَعْرِفَةً", "id": "Pengetahuan / Ma'rifah" }
+            }
+          }
+        },
+        { "word": "تَعَبَ", "meaning": "kelelahan / jerih payah", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "اُمِّكَ", "meaning": "ibumu", "type": "isim & dhomir", "irab": "Mudhaf Ilayh" },
+        { "word": "فِي", "meaning": "dalam", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "تَرْبِيَتِكَ", "meaning": "mendidikmu", "type": "isim & dhomir", "irab": "Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَعُظْمَ", "meaning": "dan besarnya", "type": "huruf & isim", "irab": "Ma'thuf" },
+        { "word": "مَحَبَّتِهَا", "meaning": "kecintaannya", "type": "isim & dhomir", "irab": "Mudhaf Ilayh" },
+        { "word": "لَكَ", "meaning": "kepadamu", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "فَبِمَاذَا", "meaning": "maka dengan apa", "type": "huruf & isim istifham", "irab": "-" },
+        { "word": "تَجْزِيهَا", "meaning": "kamu membalasnya", "type": "fi'il & dhomir", "irab": "Fi'il Mudhari'" },
+        { "word": "؟", "meaning": "?", "type": "tanda baca", "irab": "-" },
+        { "word": "طَبْعًا", "meaning": "tentunya / tentu saja", "type": "isim", "irab": "-" },
+        { "word": "إِنَّكَ", "meaning": "sesungguhnya kamu", "type": "huruf & dhomir", "irab": "Isim Inna" },
+        { "word": "لَا", "meaning": "tidak", "type": "huruf", "irab": "Harf Nafi" },
+        { 
+          "word": "تَقْدِرُ", 
+          "meaning": "mampu", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Marfu' (Khobar Inna)",
+          "morphology": {
+            "root": "ق د ر",
+            "pattern": "فَعَلَ - يَفْدِرُ",
+            "forms": {
+              "madhi": { "ar": "قَدَرَ", "id": "Telah mampu" },
+              "mudhari": { "ar": "يَقْدِرُ", "id": "Sedang mampu" },
+              "mashdar": { "ar": "قُدْرَةً", "id": "Kemampuan / Kuasa" }
+            }
+          }
+        },
+        { "word": "أَنْ", "meaning": "bahwa", "type": "huruf", "irab": "Harf Nashab" },
+        { "word": "تَجْزِيَ", "meaning": "kamu membalas", "type": "fi'il", "irab": "Fi'il Mudhari' Manshub" },
+        { "word": "اُمَّكَ", "meaning": "ibumu", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَمَا", "meaning": "dan tidaklah", "type": "huruf", "irab": "Harf Nafi / Istinaf" },
+        { "word": "عَلَيْكَ", "meaning": "atasmu (kewajibanmu)", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "إِلَّا", "meaning": "kecuali", "type": "huruf", "irab": "Adatul Hashr" },
+        { "word": "أَنْ", "meaning": "bahwa", "type": "huruf", "irab": "Harf Nashab" },
+        { 
+          "word": "تَعْمَلَ", 
+          "meaning": "kamu mengamalkan / mengerjakan", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Manshub",
+          "morphology": {
+            "root": "ع م ل",
+            "pattern": "فَعَلَ - يَفْعَلُ",
+            "forms": {
+              "madhi": { "ar": "عَمِلَ", "id": "Telah berbuat" },
+              "mudhari": { "ar": "يَعْمَلُ", "id": "Sedang berbuat" },
+              "mashdar": { "ar": "عَمَلًا", "id": "Amal / Pekerjaan" }
+            }
+          }
+        },
+        { "word": "بِهَذِهِ", "meaning": "dengan ini", "type": "huruf & isim isyaroh", "irab": "Jar & Majrur" },
+        { "word": "الْآدَابِ", "meaning": "adab-adab", "type": "isim", "irab": "Badal" },
+        { "word": ":", "meaning": ":", "type": "tanda baca", "irab": "-" }
+      ],
+      "translation": "Wahai anak yang santun! Apabila engkau mengetahui jerih payah ibumu dalam mendidikmu, dan besarnya rasa cintanya kepadamu, maka dengan apakah engkau akan membalasnya? Tentu saja engkau tidak akan mampu membalas jasa ibumu, maka tidak ada kewajiban bagimu kecuali mengamalkan adab-adab berikut ini:"
+    },
+    {
+      "arabic": [
+        { "word": "أَنْ", "meaning": "bahwa", "type": "huruf", "irab": "Harf Nashab" },
+        { 
+          "word": "تَمْتَثِلَ", 
+          "meaning": "kamu mematuhi", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Manshub",
+          "morphology": {
+            "root": "م ث ل",
+            "pattern": "اِفْتَعَلَ - يَفْتَعِلُ",
+            "forms": {
+              "madhi": { "ar": "اِمْتَثَلَ", "id": "Telah mematuhi" },
+              "mudhari": { "ar": "يَمْتَثِلُ", "id": "Sedang mematuhi" },
+              "mashdar": { "ar": "اِمْتِثَالًا", "id": "Kepatuhan" }
+            }
+          }
+        },
+        { "word": "أَوَامِرَهَا", "meaning": "perintah-perintahnya", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+        { "word": "مَعَ", "meaning": "beserta", "type": "isim", "irab": "Zhorof" },
+        { "word": "الْمَحَبَّةِ", "meaning": "rasa cinta", "type": "isim", "irab": "Majrur" },
+        { "word": "وَالْاِحْتِرَامِ", "meaning": "dan penghormatan", "type": "huruf & isim", "irab": "Ma'thuf" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَتَعْمَلَ", "meaning": "dan kamu mengerjakan", "type": "huruf & fi'il", "irab": "Ma'thuf" },
+        { "word": "كُلَّ", "meaning": "setiap", "type": "isim", "irab": "Maf'ul Bih" },
+        { "word": "شَيْئٍ", "meaning": "sesuatu", "type": "isim", "irab": "Mudhaf Ilayh" },
+        { 
+          "word": "يُفَرِّحُ", 
+          "meaning": "membuat senang / gembira", 
+          "type": "fi'il", 
+          "irab": "Fi'il Mudhari' Marfu'",
+          "morphology": {
+            "root": "ف ر ح",
+            "pattern": "فَعَّلَ - يُفَعِّلُ",
+            "forms": {
+              "madhi": { "ar": "فَرَّحَ", "id": "Telah menggembirakan" },
+              "mudhari": { "ar": "يُفَرِّحُ", "id": "Sedang menggembirakan" },
+              "mashdar": { "ar": "تَفْرِيْحًا", "id": "Kegembiraan / Hiburan" }
+            }
+          }
+        },
+        { "word": "قَلْبَهَا", "meaning": "hatinya", "type": "isim & dhomir", "irab": "Maf'ul Bih" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَتَبْتَسِمَ", "meaning": "dan kamu tersenyum", "type": "huruf & fi'il", "irab": "Ma'thuf" },
+        { "word": "أَمَامَهَا", "meaning": "di hadapannya", "type": "isim & dhomir", "irab": "Zhorof" },
+        { "word": "دَائِمًا", "meaning": "selalu", "type": "isim", "irab": "Hal" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَتُصَافِحَهَا", "meaning": "dan kamu berjabat tangan dengannya", "type": "huruf & fi'il", "irab": "Ma'thuf" },
+        { "word": "كُلَّ", "meaning": "setiap", "type": "isim", "irab": "Zhorof Zaman" },
+        { "word": "يَوْمٍ", "meaning": "hari", "type": "isim", "irab": "Mudhaf Ilayh" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "وَتَدْعُوَ", "meaning": "dan kamu berdoa", "type": "huruf & fi'il", "irab": "Ma'thuf" },
+        { "word": "لَهَا", "meaning": "baginya / untuknya", "type": "huruf & dhomir", "irab": "Jar & Majrur" },
+        { "word": "بِطُولِ", "meaning": "dengan panjang", "type": "huruf & isim", "irab": "Jar & Majrur" },
+        { "word": "الْعُمْرِ", "meaning": "umur", "type": "isim", "irab": "Mudhaf Ilayh" },
+        { "word": "،", "meaning": ",", "type": "tanda baca", "irab": "-" },
+        { "word": "فِي", "meaning": "dalam", "type": "huruf", "irab": "Harf Jar" },
+        { "word": "صِحَّةٍ", "meaning": "kesehatan", "type": "isim", "irab": "Majrur" },
+        { "word": "وَعَافِيَةٍ", "meaning": "dan kesejahteraan / afiyah", "type": "huruf & isim", "irab": "Ma'thuf" },
+        { "word": ".", "meaning": ".", "type": "tanda baca", "irab": "-" }
+      ],
+      "translation": "Hendaklah engkau mematuhi perintah-perintahnya dengan penuh rasa cinta dan hormat, melakukan segala sesuatu yang menyenangkan hatinya, senantiasa tersenyum di hadapannya, menjabat tangannya setiap hari, serta mendoakan baginya umur yang panjang dalam kesehatan dan lahir batin."
+    }
+  ]
+}
