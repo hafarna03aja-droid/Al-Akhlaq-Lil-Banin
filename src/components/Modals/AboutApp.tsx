@@ -8,7 +8,7 @@ const AboutApp = ({ isOpen, onClose }: { isOpen: boolean, onClose: () => void })
 
   return (
     <div className="modal-overlay" onClick={onClose} style={{ zIndex: 100 }}>
-      <motion.div 
+      <motion.div
         initial={{ y: 20, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         exit={{ y: 20, opacity: 0 }}
@@ -34,17 +34,27 @@ const AboutApp = ({ isOpen, onClose }: { isOpen: boolean, onClose: () => void })
           </section>
 
           <section className="space-y-4 border-t pt-8 border-bg-sand">
+            <div className="flex items-center gap-3 text-secondary-gold font-bold uppercase tracking-widest text-xs">
+              <ShieldCheck className="w-4 h-4" />
+              <span>Pengembang & Dukungan</span>
+            </div>
+            <p className="text-sm text-text-slate leading-relaxed m-0">
+              Aplikasi ini dikembangkan secara digital oleh <strong>24 Learning Centre</strong> dan didukung penuh oleh <strong>Sanggar Al Qur'an MAOSANI</strong> dalam upaya pelestarian literatur klasik Islam melalui media digital modern.
+            </p>
+          </section>
+
+          <section className="space-y-4 border-t pt-8 border-bg-sand">
             <div className="flex items-center gap-3 text-red-600 font-bold uppercase tracking-widest text-xs">
               <AlertTriangle className="w-4 h-4" />
               <span>Peringatan Hak Cipta (PENTING)</span>
             </div>
             <div className="bg-red-50 p-6 rounded-2xl border border-red-100 space-y-4">
-               <p className="text-sm font-bold text-red-800 m-0">
-                  "Pengarang dan ahli warisnya tidak ridha dunia-akhirat kepada siapapun yang merubah, menambah, atau membajak kitab ini tanpa izin tertulis dari Penerbit Ahmad Nabhan, Surabaya."
-               </p>
-               <p className="text-xs text-red-700 italic m-0 opacity-80">
-                  Aplikasi ini dikembangkan dengan niat ta'lim (belajar) dan menghormati integritas teks asli 100% sesuai cetakan fisik.
-               </p>
+              <p className="text-sm font-bold text-red-800 m-0">
+                "Pengarang dan ahli warisnya tidak ridha dunia-akhirat kepada siapapun yang merubah, menambah, atau membajak kitab ini tanpa izin."
+              </p>
+              <p className="text-xs text-red-700 italic m-0 opacity-80">
+                Aplikasi ini dikembangkan dengan niat ta'lim (belajar) dan menghormati integritas teks asli 100% sesuai cetakan fisik.
+              </p>
             </div>
           </section>
 
@@ -61,7 +71,7 @@ const AboutApp = ({ isOpen, onClose }: { isOpen: boolean, onClose: () => void })
           </section>
         </div>
 
-        <button 
+        <button
           onClick={onClose}
           className="w-full py-4 bg-bg-ivory text-primary-emerald font-bold uppercase tracking-widest text-xs hover:bg-bg-sand transition-colors border-t border-bg-sand border-none cursor-pointer"
         >

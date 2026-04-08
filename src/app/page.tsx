@@ -87,7 +87,7 @@ export default function Home() {
           <footer className="mt-20 py-12 text-center border-t border-bg-sand opacity-40">
             <div className="text-6xl mb-6 opacity-20">🍃</div>
             <p className="text-xs font-medium text-text-slate tracking-widest uppercase mb-2">Penulis: Umar bin Ahmad Baradja</p>
-            <p className="text-[10px] max-w-xs mx-auto mb-4">Aplikasi ini memegang amanah penyebaran adab Islam melalui platform digital interaktif dengan integritas tinggi.</p>
+            <p className="text-[10px] max-w-xs mx-auto mb-4">Aplikasi ini dikembangkan secara digital oleh <strong>24 Learning Centre</strong> dan didukung penuh oleh <strong>Sanggar Al Qur'an MAOSANI</strong>.</p>
             <div className="flex items-center justify-center gap-4 text-[9px] uppercase tracking-tighter opacity-70">
               <span>Tradisi Madrasah Indonesia</span>
               <span>•</span>
